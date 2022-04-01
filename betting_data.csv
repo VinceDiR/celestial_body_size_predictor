@@ -49,7 +49,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-22, Bogdan,ATL,G,NYK,@,16.5,-105,15.1,-1.4,16.5,32.0,u,0.49,0
 2022-03-23, Bogdan,ATL,G,DET,@,19.5,-125,17.3,-2.2,19.5,13.0,u,0.46,1
 2022-03-30, Bogdan,ATL,G,OKC,@,18.5,-125,14.3,-4.2,18.5,20.0,u,0.46,0
-2022-03-31, Bogdan,ATL,G,CLE,vs.,16.5,-115,14.8,-1.7,16.5,,u,0.46,0
+2022-03-31, Bogdan,ATL,G,CLE,vs.,16.5,-115,14.8,-1.7,16.5,,u,0.46,nan
 2021-10-20,Aaron Gordon,DEN,F,PHO,@,10.5,-113,13.29,2.79,10.5,12.0,o,0.33,1
 2021-10-22,Aaron Gordon,DEN,F,SAS,vs.,11.5,-103,13.78,2.28,11.5,8.0,o,0.47,0
 2021-10-25,Aaron Gordon,DEN,F,CLE,vs.,10.5,-127,13.59,3.09,10.5,12.0,o,0.45,1
@@ -117,6 +117,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-24,Aaron Gordon,DEN,F,PHO,vs.,13.5,-110,12.5,-1.0,13.5,21.0,u,0.42,0
 2022-03-26,Aaron Gordon,DEN,F,OKC,vs.,14.5,-127,14.0,-0.5,14.5,20.0,u,0.44,0
 2022-03-28,Aaron Gordon,DEN,F,CHA,@,15.5,100,15.3,-0.2,15.5,21.0,u,0.46,0
+2022-04-01,Aaron Gordon,DEN,F,MIN,vs.,14.5,-115,16.69,2.19,14.5,,o,0.41,nan
 2021-10-27,Aaron Holiday,WAS,G,BOS,@,8.5,-125,5.97,-2.53,8.5,9.0,u,0.45,0
 2021-10-30,Aaron Holiday,WAS,G,BOS,vs.,5.5,-115,6.76,1.26,5.5,6.0,o,0.45,1
 2021-11-03,Aaron Holiday,WAS,G,TOR,vs.,5.5,-115,6.36,0.86,5.5,0.0,o,0.55,0
@@ -228,6 +229,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-21,Al Horford,BOS,C,OKC,@,9.5,-115,12.6,3.1,9.5,3.0,o,0.52,0
 2022-03-23,Al Horford,BOS,C,UTH,vs.,8.5,-125,9.9,1.4,8.5,9.0,o,0.46,1
 2022-03-30,Al Horford,BOS,C,MIA,vs.,8.5,-127,10.9,2.4,8.5,6.0,o,0.46,0
+2022-04-01,Al Horford,BOS,C,IND,vs.,9.5,100,9.33,-0.17,9.5,,u,0.41,nan
 2021-10-20,Alec Burks,NYK,G,BOS,vs.,11.5,-118,10.86,-0.64,11.5,5.0,u,0.33,1
 2021-10-22,Alec Burks,NYK,G,ORL,@,8.5,-125,9.96,1.46,8.5,12.0,o,0.47,1
 2021-10-24,Alec Burks,NYK,G,ORL,vs.,9.5,-125,10.16,0.66,9.5,9.0,o,0.43,0
@@ -348,7 +350,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-24,Alex Caruso,CHI,G,NOR,@,10.5,-120,9.1,-1.4,10.5,11.0,u,0.42,0
 2022-03-26,Alex Caruso,CHI,G,CLE,@,8.5,-110,7.9,-0.6,8.5,10.0,u,0.44,0
 2022-03-29,Alex Caruso,CHI,G,WAS,@,8.5,-105,8.8,0.3,8.5,2.0,o,0.46,0
-2022-03-31,Alex Caruso,CHI,G,LAC,vs.,7.5,-125,8.73,1.23,7.5,,o,0.46,0
+2022-03-31,Alex Caruso,CHI,G,LAC,vs.,7.5,-125,8.73,1.23,7.5,,o,0.46,nan
 2021-11-05,Alex Len,SAC,C,CHA,vs.,6.5,-110,5.73,-0.77,6.5,0.0,u,0.49,1
 2021-11-08,Alex Len,SAC,C,PHO,vs.,6.5,105,5.92,-0.58,6.5,2.0,u,0.44,1
 2021-11-26,Alex Len,SAC,C,LAL,@,7.5,-120,6.26,-1.24,7.5,12.0,u,0.4,0
@@ -482,7 +484,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-26,Andre Drummond,BKN,C,MIA,@,8.5,-120,9.8,1.3,8.5,13.0,o,0.44,1
 2022-03-27,Andre Drummond,BKN,C,CHA,vs.,10.5,-113,7.6,-2.9,10.5,20.0,u,0.47,0
 2022-03-29,Andre Drummond,BKN,C,DET,vs.,11.5,-115,10.4,-1.1,11.5,14.0,u,0.46,0
-2022-03-31,Andre Drummond,BKN,C,MIL,vs.,10.5,-115,11.2,0.7,10.5,,o,0.46,0
+2022-03-31,Andre Drummond,BKN,C,MIL,vs.,10.5,-115,11.2,0.7,10.5,,o,0.46,nan
 2021-10-21,Andre Iguodala,GSW,G,LAC,vs.,5.5,-105,11.93,6.43,5.5,4.0,o,0.47,0
 2021-10-26,Andre Iguodala,GSW,G,OKC,@,4.5,-111,8.69,4.19,4.5,3.0,o,0.43,0
 2021-10-28,Andre Iguodala,GSW,G,MEM,vs.,5.5,105,6.73,1.23,5.5,2.0,o,0.42,0
@@ -711,6 +713,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-25,Anthony Edwards,MIN,G,DAL,vs.,19.5,-113,19.9,0.4,19.5,12.0,o,0.47,0
 2022-03-27,Anthony Edwards,MIN,G,BOS,@,19.5,-134,21.7,2.2,19.5,24.0,o,0.47,1
 2022-03-30,Anthony Edwards,MIN,G,TOR,@,19.5,-115,20.9,1.4,19.5,24.0,o,0.46,1
+2022-04-01,Anthony Edwards,MIN,G,DEN,@,20.5,-115,22.18,1.68,20.5,,o,0.41,nan
 2021-11-29,Armoni Brooks,HOU,G,OKC,vs.,8.5,-110,4.93,-3.57,8.5,3.0,u,0.49,1
 2021-12-01,Armoni Brooks,HOU,G,OKC,@,8.5,-115,7.0,-1.5,8.5,18.0,u,0.49,0
 2021-12-08,Armoni Brooks,HOU,G,BKN,vs.,8.5,-110,5.21,-3.29,8.5,14.0,u,0.55,0
@@ -735,7 +738,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-23,Austin Reaves,LAL,G,PHI,vs.,9.5,105,8.7,-0.8,9.5,4.0,u,0.46,1
 2022-03-27,Austin Reaves,LAL,G,NOR,@,7.5,-115,7.4,-0.1,7.5,0.0,u,0.47,1
 2022-03-29,Austin Reaves,LAL,G,DAL,@,8.5,-115,7.9,-0.6,8.5,3.0,u,0.46,1
-2022-03-31,Austin Reaves,LAL,G,UTH,@,7.5,-110,8.8,1.3,7.5,,o,0.46,0
+2022-03-31,Austin Reaves,LAL,G,UTH,@,7.5,-110,8.8,1.3,7.5,,o,0.46,nan
 2021-11-23,Austin Rivers,DEN,G,POR,@,7.5,-115,7.66,0.16,7.5,8.0,o,0.49,1
 2021-11-29,Austin Rivers,DEN,G,MIA,@,4.5,-120,6.78,2.28,4.5,7.0,o,0.49,1
 2021-12-26,Austin Rivers,DEN,G,LAC,@,8.5,-115,8.2,-0.3,8.5,12.0,u,0.57,0
@@ -828,7 +831,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-26,Ayo Dosunmu,CHI,G,CLE,@,8.5,-115,7.3,-1.2,8.5,11.0,u,0.44,0
 2022-03-28,Ayo Dosunmu,CHI,G,NYK,@,8.5,-125,9.8,1.3,8.5,10.0,o,0.46,1
 2022-03-29,Ayo Dosunmu,CHI,G,WAS,@,9.5,-115,10.1,0.6,9.5,4.0,o,0.46,0
-2022-03-31,Ayo Dosunmu,CHI,G,LAC,vs.,9.5,105,9.8,0.3,9.5,,o,0.46,0
+2022-03-31,Ayo Dosunmu,CHI,G,LAC,vs.,9.5,105,9.8,0.3,9.5,,o,0.46,nan
 2021-10-21,Bam Adebayo,MIA,C,MIL,vs.,18.5,100,20.26,1.76,18.5,20.0,o,0.47,1
 2021-10-25,Bam Adebayo,MIA,C,ORL,vs.,18.5,-113,15.89,-2.61,18.5,16.0,u,0.45,1
 2021-10-27,Bam Adebayo,MIA,C,BKN,@,16.5,-134,19.48,2.98,16.5,24.0,o,0.45,1
@@ -994,7 +997,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-22,Bobby Portis,MIL,F,CHI,vs.,12.5,-111,14.1,1.6,12.5,6.0,o,0.49,0
 2022-03-24,Bobby Portis,MIL,F,WAS,vs.,17.5,-120,16.1,-1.4,17.5,11.0,u,0.42,1
 2022-03-29,Bobby Portis,MIL,F,PHI,@,8.5,-120,13.3,4.8,8.5,3.0,o,0.46,0
-2022-03-31,Bobby Portis,MIL,F,BKN,@,7.5,-125,13.1,5.6,7.5,,o,0.46,0
+2022-03-31,Bobby Portis,MIL,F,BKN,@,7.5,-125,13.1,5.6,7.5,,o,0.46,nan
 2021-10-20,Bojan Bogdanovic,UTH,F,OKC,vs.,16.5,-113,16.33,-0.17,16.5,22.0,u,0.33,0
 2021-10-22,Bojan Bogdanovic,UTH,F,SAC,@,15.5,-122,18.96,3.46,15.5,13.0,o,0.47,0
 2021-10-26,Bojan Bogdanovic,UTH,F,DEN,vs.,16.5,-113,17.2,0.7,16.5,15.0,o,0.43,0
@@ -1238,7 +1241,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-24,Brook Lopez,MIL,C,WAS,vs.,14.5,-120,9.9,-4.6,14.5,13.0,u,0.42,1
 2022-03-26,Brook Lopez,MIL,C,MEM,@,11.5,-120,10.3,-1.2,11.5,10.0,u,0.44,1
 2022-03-29,Brook Lopez,MIL,C,PHI,@,10.5,-125,9.0,-1.5,10.5,17.0,u,0.46,0
-2022-03-31,Brook Lopez,MIL,C,BKN,@,11.5,-115,10.9,-0.6,11.5,,u,0.46,0
+2022-03-31,Brook Lopez,MIL,C,BKN,@,11.5,-115,10.9,-0.6,11.5,,u,0.46,nan
 2021-10-31,Bruce Brown,BKN,G,DET,vs.,10.5,100,8.03,-2.48,10.5,2.0,u,0.49,1
 2021-11-03,Bruce Brown,BKN,G,ATL,vs.,9.5,-130,7.7,-1.8,9.5,10.0,u,0.55,0
 2021-11-05,Bruce Brown,BKN,G,DET,@,9.5,-110,8.46,-1.04,9.5,10.0,u,0.49,0
@@ -1277,7 +1280,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-26,Bruce Brown,BKN,G,MIA,@,11.5,-103,11.1,-0.4,11.5,8.0,u,0.44,1
 2022-03-27,Bruce Brown,BKN,G,CHA,vs.,12.5,-169,9.1,-3.4,12.5,10.0,u,0.47,1
 2022-03-29,Bruce Brown,BKN,G,DET,vs.,11.5,-118,9.2,-2.3,11.5,15.0,u,0.46,0
-2022-03-31,Bruce Brown,BKN,G,MIL,vs.,9.5,100,9.3,-0.2,9.5,,u,0.46,0
+2022-03-31,Bruce Brown,BKN,G,MIL,vs.,9.5,100,9.3,-0.2,9.5,,u,0.46,nan
 2021-10-20,Bryn Forbes,SAS,G,ORL,vs.,8.5,-115,11.65,3.15,8.5,0.0,o,0.33,0
 2021-10-30,Bryn Forbes,SAS,G,MIL,@,8.5,-115,9.14,0.64,8.5,16.0,o,0.45,1
 2021-11-01,Bryn Forbes,SAS,G,IND,@,9.5,-115,10.23,0.73,9.5,10.0,o,0.52,1
@@ -1511,7 +1514,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-25,Cade Cunningham,DET,G,WAS,vs.,21.5,-125,17.9,-3.6,21.5,22.0,u,0.47,0
 2022-03-27,Cade Cunningham,DET,G,NYK,vs.,21.5,-111,18.02,-3.48,21.5,18.0,u,0.47,1
 2022-03-29,Cade Cunningham,DET,G,BKN,@,20.5,-103,19.2,-1.3,20.5,34.0,u,0.46,0
-2022-03-31,Cade Cunningham,DET,G,PHI,vs.,20.5,-104,18.6,-1.9,20.5,,u,0.46,0
+2022-03-31,Cade Cunningham,DET,G,PHI,vs.,20.5,-104,18.6,-1.9,20.5,,u,0.46,nan
 2021-11-13,Caleb Martin,MIA,F,UTH,@,5.5,-110,5.9,0.4,5.5,6.0,o,0.49,1
 2021-11-18,Caleb Martin,MIA,F,WAS,vs.,6.5,-125,5.14,-1.36,6.5,7.0,u,0.55,0
 2021-12-01,Caleb Martin,MIA,F,CLE,vs.,9.5,-140,8.8,-0.7,9.5,11.0,u,0.49,0
@@ -1731,7 +1734,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-21,Caris LeVert,CLE,G,LAL,vs.,13.5,-115,19.9,6.4,13.5,13.0,o,0.52,0
 2022-03-24,Caris LeVert,CLE,G,TOR,@,13.5,-115,17.6,4.1,13.5,11.0,o,0.42,0
 2022-03-28,Caris LeVert,CLE,G,ORL,vs.,17.5,-115,19.3,1.8,17.5,8.0,o,0.46,0
-2022-03-31,Caris LeVert,CLE,G,ATL,@,18.5,-115,19.6,1.1,18.5,,o,0.46,0
+2022-03-31,Caris LeVert,CLE,G,ATL,@,18.5,-115,19.6,1.1,18.5,,o,0.46,nan
 2021-10-19,Carmelo Anthony,LAL,F,GSW,vs.,12.5,-106,10.72,-1.78,12.5,9.0,u,0.5,1
 2021-10-22,Carmelo Anthony,LAL,F,PHO,vs.,12.5,-115,10.76,-1.74,12.5,16.0,u,0.47,0
 2021-10-24,Carmelo Anthony,LAL,F,MEM,vs.,12.5,-113,11.35,-1.15,12.5,28.0,u,0.43,0
@@ -1973,6 +1976,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-02-16,Chris Paul,PHO,G,HOU,vs.,14.5,-115,16.8,2.3,14.5,11.0,o,0.44,0
 2022-03-27,Chris Paul,PHO,G,PHI,vs.,14.5,-108,13.4,-1.1,14.5,19.0,u,0.47,0
 2022-03-30,Chris Paul,PHO,G,GSW,@,14.5,-113,14.7,0.2,14.5,15.0,o,0.46,1
+2022-04-01,Chris Paul,PHO,G,MEM,@,14.5,-125,15.62,1.11,14.5,,o,0.41,nan
 2021-10-20,Christian Wood,HOU,F,MIN,@,20.5,-120,23.31,2.81,20.5,16.0,o,0.33,0
 2021-10-22,Christian Wood,HOU,F,OKC,vs.,20.5,-134,23.62,3.12,20.5,31.0,o,0.47,1
 2021-10-24,Christian Wood,HOU,F,BOS,vs.,19.5,-115,21.97,2.47,19.5,20.0,o,0.43,1
@@ -2158,7 +2162,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-25,Clint Capela,ATL,C,GSW,vs.,9.5,-113,9.8,0.3,9.5,19.0,o,0.47,1
 2022-03-28,Clint Capela,ATL,C,IND,@,11.5,-113,13.0,1.5,11.5,22.0,o,0.46,1
 2022-03-30,Clint Capela,ATL,C,OKC,@,12.5,-113,10.6,-1.9,12.5,4.0,u,0.46,1
-2022-03-31,Clint Capela,ATL,C,CLE,vs.,11.5,-108,10.9,-0.6,11.5,,u,0.46,0
+2022-03-31,Clint Capela,ATL,C,CLE,vs.,11.5,-108,10.9,-0.6,11.5,,u,0.46,nan
 2021-11-27,Coby White,CHI,G,MIA,vs.,7.5,-125,9.86,2.36,7.5,4.0,o,0.42,0
 2021-11-29,Coby White,CHI,G,CHA,vs.,8.5,-105,11.97,3.47,8.5,8.0,o,0.49,0
 2021-12-20,Coby White,CHI,G,HOU,vs.,12.5,-110,11.02,-1.48,12.5,24.0,u,0.66,0
@@ -2193,7 +2197,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-18,Coby White,CHI,G,PHO,@,8.5,-149,10.8,2.3,8.5,14.0,o,0.43,1
 2022-03-21,Coby White,CHI,G,TOR,vs.,9.5,-115,11.3,1.8,9.5,2.0,o,0.52,0
 2022-03-29,Coby White,CHI,G,WAS,@,7.5,-115,10.4,2.9,7.5,9.0,o,0.46,1
-2022-03-31,Coby White,CHI,G,LAC,vs.,8.5,-111,9.2,0.7,8.5,,o,0.46,0
+2022-03-31,Coby White,CHI,G,LAC,vs.,8.5,-118,9.2,0.7,8.5,,o,0.46,nan
 2021-10-25,Cody Martin,CHA,F,BOS,vs.,7.5,-115,10.62,3.12,7.5,3.0,o,0.45,0
 2021-10-27,Cody Martin,CHA,F,ORL,@,5.5,-130,9.25,3.75,5.5,12.0,o,0.45,1
 2021-11-03,Cody Martin,CHA,F,GSW,@,6.5,115,10.04,3.54,6.5,2.0,o,0.55,0
@@ -2399,7 +2403,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-25,Cory Joseph,DET,G,WAS,vs.,7.5,-175,6.0,-1.5,7.5,6.0,u,0.47,1
 2022-03-27,Cory Joseph,DET,G,NYK,vs.,6.5,-105,7.95,1.45,6.5,9.0,o,0.47,1
 2022-03-29,Cory Joseph,DET,G,BKN,@,6.5,-120,7.4,0.9,6.5,5.0,o,0.46,0
-2022-03-31,Cory Joseph,DET,G,PHI,vs.,6.5,-115,7.6,1.1,6.5,,o,0.46,0
+2022-03-31,Cory Joseph,DET,G,PHI,vs.,6.5,-115,7.6,1.1,6.5,,o,0.46,nan
 2021-10-20,D'Angelo Russell,MIN,G,HOU,vs.,19.5,-113,22.02,2.52,19.5,22.0,o,0.33,1
 2021-10-23,D'Angelo Russell,MIN,G,NOR,vs.,18.5,105,20.25,1.75,18.5,12.0,o,0.45,0
 2021-10-25,D'Angelo Russell,MIN,G,NOR,vs.,18.5,-111,20.67,2.17,18.5,9.0,o,0.45,0
@@ -2460,6 +2464,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-23,D'Angelo Russell,MIN,G,PHO,vs.,17.5,-120,19.5,2.0,17.5,6.0,o,0.46,0
 2022-03-25,D'Angelo Russell,MIN,G,DAL,vs.,16.5,-113,16.3,-0.2,16.5,15.0,u,0.47,1
 2022-03-30,D'Angelo Russell,MIN,G,TOR,@,15.5,-115,17.3,1.8,15.5,13.0,o,0.46,0
+2022-04-01,D'Angelo Russell,MIN,G,DEN,@,16.5,-115,19.94,3.44,16.5,,o,0.41,nan
 2021-10-22,D.J. Augustin,HOU,G,OKC,vs.,6.5,-125,7.14,0.64,6.5,3.0,o,0.47,0
 2021-11-04,D.J. Augustin,HOU,G,PHO,@,4.5,-120,6.34,1.84,4.5,6.0,o,0.53,1
 2021-11-22,D.J. Augustin,HOU,G,BOS,@,4.5,-120,6.42,1.92,4.5,4.0,o,0.53,0
@@ -2479,6 +2484,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-26,Damian Jones,SAC,C,ORL,@,10.5,100,9.8,-0.7,10.5,15.0,u,0.44,0
 2022-03-28,Damian Jones,SAC,C,MIA,@,9.5,-115,8.6,-0.9,9.5,15.0,u,0.46,0
 2022-03-30,Damian Jones,SAC,C,HOU,@,11.5,-103,10.2,-1.3,11.5,24.0,u,0.46,0
+2022-04-01,Damian Jones,SAC,C,HOU,@,14.5,-120,5.57,-8.93,14.5,,u,0.41,nan
 2021-10-20,Damian Lillard,POR,G,SAC,vs.,30.5,-113,30.53,0.03,30.5,20.0,o,0.33,0
 2021-10-23,Damian Lillard,POR,G,PHO,vs.,28.5,-115,30.3,1.8,28.5,19.0,o,0.45,0
 2021-10-25,Damian Lillard,POR,G,LAC,@,29.5,-111,27.77,-1.73,29.5,12.0,u,0.45,1
@@ -2651,7 +2657,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-20,Danilo Gallinari,ATL,F,NOR,vs.,12.5,-128,13.9,1.4,12.5,27.0,o,0.49,1
 2022-03-22,Danilo Gallinari,ATL,F,NYK,@,13.5,-115,15.2,1.7,13.5,10.0,o,0.49,0
 2022-03-25,Danilo Gallinari,ATL,F,GSW,vs.,12.5,-129,15.5,3.0,12.5,25.0,o,0.47,1
-2022-03-31,Danilo Gallinari,ATL,F,CLE,vs.,10.5,-125,12.7,2.2,10.5,,o,0.46,0
+2022-03-31,Danilo Gallinari,ATL,F,CLE,vs.,10.5,-125,12.7,2.2,10.5,,o,0.46,nan
 2021-10-20,Danny Green,PHI,G,NOR,@,7.5,-127,10.28,2.78,7.5,0.0,o,0.33,0
 2021-10-22,Danny Green,PHI,G,BKN,vs.,6.5,100,8.43,1.93,6.5,6.0,o,0.47,0
 2021-10-24,Danny Green,PHI,G,OKC,@,7.5,-125,8.82,1.32,7.5,11.0,o,0.43,1
@@ -2687,7 +2693,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-02-15,Danny Green,PHI,G,BOS,vs.,6.5,-125,7.0,0.5,6.5,3.0,o,0.47,0
 2022-02-17,Danny Green,PHI,G,MIL,@,5.5,-115,6.8,1.3,5.5,2.0,o,0.41,0
 2022-03-29,Danny Green,PHI,G,MIL,vs.,4.5,-130,5.8,1.3,4.5,9.0,o,0.46,1
-2022-03-31,Danny Green,PHI,G,DET,@,4.5,-125,6.5,2.0,4.5,,o,0.46,0
+2022-03-31,Danny Green,PHI,G,DET,@,4.5,-125,6.5,2.0,4.5,,o,0.46,nan
 2021-11-12,Danuel House,HOU,F,POR,vs.,6.5,-120,4.55,-1.95,6.5,5.0,u,0.46,1
 2021-11-15,Danuel House,HOU,F,MEM,@,7.5,-120,4.83,-2.67,7.5,2.0,u,0.47,1
 2021-12-01,Danuel House,HOU,F,OKC,@,7.5,-125,6.6,-0.9,7.5,4.0,u,0.49,1
@@ -2816,7 +2822,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-26,Darius Garland,CLE,G,CHI,vs.,24.5,-125,22.0,-2.5,24.5,28.0,u,0.44,0
 2022-03-28,Darius Garland,CLE,G,ORL,vs.,24.5,-106,21.6,-2.9,24.5,25.0,u,0.46,0
 2022-03-30,Darius Garland,CLE,G,DAL,vs.,23.5,100,21.8,-1.7,23.5,25.0,u,0.46,0
-2022-03-31,Darius Garland,CLE,G,ATL,@,24.5,-103,23.2,-1.3,24.5,,u,0.46,0
+2022-03-31,Darius Garland,CLE,G,ATL,@,24.5,-103,23.2,-1.3,24.5,,u,0.46,nan
 2021-10-24,David Nwaba,HOU,G,BOS,vs.,6.5,-120,6.46,-0.04,6.5,0.0,u,0.43,1
 2021-11-04,David Nwaba,HOU,G,PHO,@,4.5,100,3.97,-0.53,4.5,8.0,u,0.53,0
 2021-12-27,David Nwaba,HOU,G,CHA,@,12.5,-105,5.22,-7.28,12.5,9.0,u,0.57,1
@@ -2874,6 +2880,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-26,Davion Mitchell,SAC,G,ORL,@,20.5,-125,16.6,-3.9,20.5,22.0,u,0.44,0
 2022-03-28,Davion Mitchell,SAC,G,MIA,@,17.5,-113,15.1,-2.4,17.5,21.0,u,0.46,0
 2022-03-30,Davion Mitchell,SAC,G,HOU,@,22.5,-117,17.7,-4.8,22.5,24.0,u,0.46,0
+2022-04-01,Davion Mitchell,SAC,G,HOU,@,20.5,110,14.86,-5.64,20.5,,u,0.41,nan
 2021-10-20,Davis Bertans,WAS,F,TOR,@,9.5,-110,7.91,-1.59,9.5,0.0,u,0.33,1
 2021-10-22,Davis Bertans,WAS,F,IND,vs.,9.5,-120,8.24,-1.26,9.5,17.0,u,0.47,0
 2021-10-25,Davis Bertans,WAS,F,BKN,@,8.5,-120,8.07,-0.43,8.5,0.0,u,0.45,1
@@ -3003,7 +3010,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-25,De'Andre Hunter,ATL,F,GSW,vs.,13.5,-113,14.5,1.0,13.5,11.0,o,0.47,0
 2022-03-28,De'Andre Hunter,ATL,F,IND,@,14.5,-113,14.9,0.4,14.5,0.0,o,0.46,0
 2022-03-30,De'Andre Hunter,ATL,F,OKC,@,15.5,-115,14.1,-1.4,15.5,19.0,u,0.46,0
-2022-03-31,De'Andre Hunter,ATL,F,CLE,vs.,14.5,-115,13.5,-1.0,14.5,,u,0.46,0
+2022-03-31,De'Andre Hunter,ATL,F,CLE,vs.,14.5,-115,13.5,-1.0,14.5,,u,0.46,nan
 2021-10-20,De'Anthony Melton,MEM,G,CLE,vs.,11.5,-118,10.75,-0.75,11.5,20.0,u,0.33,0
 2021-10-23,De'Anthony Melton,MEM,G,LAC,@,12.5,-107,11.55,-0.94,12.5,22.0,u,0.45,0
 2021-10-24,De'Anthony Melton,MEM,G,LAL,@,14.5,-139,11.31,-3.19,14.5,13.0,u,0.43,1
@@ -3161,7 +3168,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-26,DeMar DeRozan,CHI,G,CLE,@,25.5,-115,25.2,-0.3,25.5,20.0,u,0.44,1
 2022-03-28,DeMar DeRozan,CHI,G,NYK,@,23.5,-120,26.4,2.9,23.5,37.0,o,0.46,1
 2022-03-29,DeMar DeRozan,CHI,G,WAS,@,25.5,-125,27.1,1.6,25.5,32.0,o,0.46,1
-2022-03-31,DeMar DeRozan,CHI,G,LAC,vs.,25.5,-120,26.6,1.1,25.5,,o,0.46,0
+2022-03-31,DeMar DeRozan,CHI,G,LAC,vs.,25.5,-120,26.6,1.1,25.5,,o,0.46,nan
 2021-12-04,DeMarcus Cousins,MIL,C,MIA,vs.,8.5,-130,9.2,0.7,8.5,11.0,o,0.55,1
 2021-12-10,DeMarcus Cousins,MIL,C,HOU,@,7.5,-110,7.2,-0.3,7.5,0.0,u,0.51,1
 2021-12-13,DeMarcus Cousins,MIL,C,BOS,@,5.5,-115,6.31,0.81,5.5,6.0,o,0.49,1
@@ -3256,6 +3263,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-24,Deandre Ayton,PHO,C,DEN,@,17.5,-110,17.1,-0.4,17.5,16.0,u,0.42,1
 2022-03-27,Deandre Ayton,PHO,C,PHI,vs.,18.5,-149,17.2,-1.3,18.5,14.0,u,0.47,1
 2022-03-30,Deandre Ayton,PHO,C,GSW,@,16.5,-128,16.9,0.4,16.5,16.0,o,0.46,0
+2022-04-01,Deandre Ayton,PHO,C,MEM,@,16.5,-110,17.46,0.96,16.5,,o,0.41,nan
 2021-10-20,Dejounte Murray,SAS,G,ORL,vs.,17.5,-113,16.88,-0.62,17.5,15.0,u,0.33,1
 2021-10-22,Dejounte Murray,SAS,G,DEN,@,16.5,-125,16.38,-0.12,16.5,15.0,u,0.47,1
 2021-10-23,Dejounte Murray,SAS,G,MIL,vs.,16.5,-136,16.32,-0.18,16.5,10.0,u,0.45,1
@@ -3324,6 +3332,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-26,Dejounte Murray,SAS,G,NOR,@,24.5,-120,21.7,-2.8,24.5,15.0,u,0.44,1
 2022-03-28,Dejounte Murray,SAS,G,HOU,@,24.5,-120,22.8,-1.7,24.5,33.0,u,0.46,0
 2022-03-30,Dejounte Murray,SAS,G,MEM,vs.,23.5,-113,21.4,-2.1,23.5,33.0,u,0.46,0
+2022-04-01,Dejounte Murray,SAS,G,POR,vs.,24.5,-110,18.95,-5.55,24.5,,u,0.41,nan
 2021-12-01,Delon Wright,ATL,G,IND,@,4.5,-120,4.84,0.34,4.5,11.0,o,0.49,1
 2021-12-03,Delon Wright,ATL,G,PHI,vs.,5.5,-125,4.84,-0.66,5.5,2.0,u,0.55,1
 2021-12-05,Delon Wright,ATL,G,CHA,vs.,5.5,105,5.39,-0.11,5.5,3.0,u,0.53,1
@@ -3718,6 +3727,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-24,Devin Booker,PHO,G,DEN,@,26.5,-105,26.0,-0.5,26.5,49.0,u,0.42,0
 2022-03-27,Devin Booker,PHO,G,PHI,vs.,27.5,110,26.8,-0.7,27.5,35.0,u,0.47,0
 2022-03-30,Devin Booker,PHO,G,GSW,@,28.5,-113,26.3,-2.2,28.5,22.0,u,0.46,1
+2022-04-01,Devin Booker,PHO,G,MEM,@,27.5,-115,27.78,0.28,27.5,,o,0.41,nan
 2021-10-22,Devin Vassell,SAS,G,DEN,@,8.5,-120,9.24,0.74,8.5,6.0,o,0.47,0
 2021-10-26,Devin Vassell,SAS,G,LAL,vs.,7.5,-133,8.36,0.86,7.5,19.0,o,0.43,1
 2021-10-28,Devin Vassell,SAS,G,DAL,@,10.5,-130,9.1,-1.4,10.5,7.0,u,0.42,1
@@ -4009,7 +4019,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-25,Donovan Mitchell,UTH,G,CHA,@,27.5,-133,28.4,0.9,27.5,26.0,o,0.47,0
 2022-03-27,Donovan Mitchell,UTH,G,DAL,@,27.5,-108,25.1,-2.4,27.5,12.0,u,0.47,1
 2022-03-29,Donovan Mitchell,UTH,G,LAC,@,25.5,-120,26.3,0.8,25.5,33.0,o,0.46,1
-2022-03-31,Donovan Mitchell,UTH,G,LAL,vs.,25.5,-115,27.5,2.0,25.5,,o,0.46,0
+2022-03-31,Donovan Mitchell,UTH,G,LAL,vs.,25.5,-110,27.5,2.0,25.5,,o,0.46,nan
 2021-12-30,Donte DiVincenzo,MIL,G,ORL,@,5.5,-128,8.72,3.22,5.5,11.0,o,0.57,1
 2022-01-15,Donte DiVincenzo,MIL,G,TOR,vs.,6.5,-110,6.6,0.1,6.5,3.0,o,0.53,0
 2022-01-17,Donte DiVincenzo,MIL,G,ATL,@,6.5,-110,8.69,2.19,6.5,9.0,o,0.58,1
@@ -4101,6 +4111,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-27,Dorian Finney-Smith,DAL,F,UTH,vs.,10.5,-127,11.0,0.5,10.5,8.0,o,0.47,0
 2022-03-29,Dorian Finney-Smith,DAL,F,LAL,vs.,11.5,-125,11.2,-0.3,11.5,8.0,u,0.46,1
 2022-03-30,Dorian Finney-Smith,DAL,F,CLE,@,11.5,-120,10.3,-1.2,11.5,28.0,u,0.46,0
+2022-04-01,Dorian Finney-Smith,DAL,F,WAS,@,11.5,-115,11.26,-0.24,11.5,,u,0.41,nan
 2021-10-20,Doug McDermott,SAS,F,ORL,vs.,13.5,-130,14.32,0.82,13.5,12.0,o,0.33,0
 2021-10-22,Doug McDermott,SAS,F,DEN,@,13.5,-120,13.41,-0.09,13.5,5.0,u,0.47,1
 2021-10-23,Doug McDermott,SAS,F,MIL,vs.,12.5,-103,13.75,1.25,12.5,25.0,o,0.45,1
@@ -5192,7 +5203,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-25,Georges Niang,PHI,F,LAC,@,7.5,-110,6.0,-1.5,7.5,0.0,u,0.47,1
 2022-03-27,Georges Niang,PHI,F,PHO,@,7.5,-130,5.9,-1.6,7.5,2.0,u,0.47,1
 2022-03-29,Georges Niang,PHI,F,MIL,vs.,8.5,-115,6.9,-1.6,8.5,9.0,u,0.46,0
-2022-03-31,Georges Niang,PHI,F,DET,@,7.5,-130,7.4,-0.1,7.5,,u,0.46,0
+2022-03-31,Georges Niang,PHI,F,DET,@,7.5,-130,7.4,-0.1,7.5,,u,0.46,nan
 2021-10-19,Giannis Antetokounmpo,MIL,F,BKN,vs.,30.5,-108,30.52,0.02,30.5,32.0,o,0.5,1
 2021-10-21,Giannis Antetokounmpo,MIL,F,MIA,@,30.5,-113,28.36,-2.14,30.5,15.0,u,0.47,1
 2021-10-23,Giannis Antetokounmpo,MIL,F,SAS,@,28.5,-118,27.13,-1.37,28.5,21.0,u,0.45,1
@@ -5255,7 +5266,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-24,Giannis Antetokounmpo,MIL,F,WAS,vs.,32.5,-110,30.4,-2.1,32.5,0.0,u,0.42,1
 2022-03-26,Giannis Antetokounmpo,MIL,F,MEM,@,31.5,-115,30.3,-1.2,31.5,30.0,u,0.44,1
 2022-03-29,Giannis Antetokounmpo,MIL,F,PHI,@,29.5,105,26.4,-3.1,29.5,40.0,u,0.46,0
-2022-03-31,Giannis Antetokounmpo,MIL,F,BKN,@,31.5,100,29.1,-2.4,31.5,,u,0.46,0
+2022-03-31,Giannis Antetokounmpo,MIL,F,BKN,@,31.5,100,29.1,-2.4,31.5,,u,0.46,nan
 2022-01-20,Goga Bitadze,IND,C,GSW,@,9.5,-135,9.7,0.2,9.5,13.0,o,0.6,1
 2022-01-22,Goga Bitadze,IND,C,PHO,@,11.5,-140,12.5,1.0,11.5,16.0,o,0.59,1
 2022-01-24,Goga Bitadze,IND,C,NOR,@,12.5,-112,11.2,-1.3,12.5,12.0,u,0.51,1
@@ -5279,7 +5290,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-21,Goran Dragic,BKN,G,UTH,vs.,10.5,-122,13.7,3.2,10.5,7.0,o,0.52,0
 2022-03-27,Goran Dragic,BKN,G,CHA,vs.,10.5,-120,11.2,0.7,10.5,7.0,o,0.47,0
 2022-03-29,Goran Dragic,BKN,G,DET,vs.,7.5,-105,11.7,4.2,7.5,9.0,o,0.46,1
-2022-03-31,Goran Dragic,BKN,G,MIL,vs.,7.5,-125,12.0,4.5,7.5,,o,0.46,0
+2022-03-31,Goran Dragic,BKN,G,MIL,vs.,7.5,-125,12.0,4.5,7.5,,o,0.46,nan
 2021-10-20,Gordon Hayward,CHA,F,IND,vs.,14.5,-125,19.52,5.02,14.5,27.0,o,0.33,1
 2021-10-22,Gordon Hayward,CHA,F,CLE,@,17.5,-115,19.21,1.71,17.5,18.0,o,0.47,1
 2021-10-24,Gordon Hayward,CHA,F,BKN,@,18.5,-120,18.47,-0.03,18.5,8.0,u,0.43,1
@@ -5383,6 +5394,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-27,Grant Williams,BOS,F,MIN,vs.,10.5,-110,10.3,-0.2,10.5,7.0,u,0.47,1
 2022-03-28,Grant Williams,BOS,F,TOR,@,12.5,-110,11.1,-1.4,12.5,17.0,u,0.46,0
 2022-03-30,Grant Williams,BOS,F,MIA,vs.,9.5,-108,8.7,-0.8,9.5,4.0,u,0.46,1
+2022-04-01,Grant Williams,BOS,F,IND,vs.,9.5,-120,8.8,-0.7,9.5,,u,0.41,nan
 2021-10-19,Grayson Allen,MIL,G,BKN,vs.,10.5,-113,11.23,0.73,10.5,10.0,o,0.5,0
 2021-10-21,Grayson Allen,MIL,G,MIA,@,12.5,-125,11.38,-1.12,12.5,14.0,u,0.47,0
 2021-10-23,Grayson Allen,MIL,G,SAS,@,10.5,-107,12.09,1.59,10.5,10.0,o,0.45,0
@@ -5447,7 +5459,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-24,Grayson Allen,MIL,G,WAS,vs.,12.5,-133,11.6,-0.9,12.5,21.0,u,0.42,0
 2022-03-26,Grayson Allen,MIL,G,MEM,@,9.5,-105,9.3,-0.2,9.5,7.0,u,0.44,1
 2022-03-29,Grayson Allen,MIL,G,PHI,@,6.5,-128,8.7,2.2,6.5,10.0,o,0.46,1
-2022-03-31,Grayson Allen,MIL,G,BKN,@,8.5,105,10.5,2.0,8.5,,o,0.46,0
+2022-03-31,Grayson Allen,MIL,G,BKN,@,8.5,105,10.5,2.0,8.5,,o,0.46,nan
 2022-02-16,Greg Brown,POR,F,MEM,@,5.5,-105,6.1,0.6,5.5,4.0,o,0.44,0
 2022-03-14,Greg Brown,POR,F,ATL,@,6.5,100,5.9,-0.6,6.5,2.0,u,0.47,1
 2021-11-24,Hamidou Diallo,DET,G,MIL,@,7.5,-105,6.59,-0.91,7.5,6.0,u,0.46,1
@@ -5551,6 +5563,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-26,Harrison Barnes,SAC,F,ORL,@,16.5,-115,16.9,0.4,16.5,19.0,o,0.44,1
 2022-03-28,Harrison Barnes,SAC,F,MIA,@,15.5,-118,17.0,1.5,15.5,17.0,o,0.46,1
 2022-03-30,Harrison Barnes,SAC,F,HOU,@,18.5,-105,18.9,0.4,18.5,13.0,o,0.46,0
+2022-04-01,Harrison Barnes,SAC,F,HOU,@,18.5,105,20.31,1.81,18.5,,o,0.41,nan
 2021-10-20,Hassan Whiteside,UTH,C,OKC,vs.,8.5,-130,7.32,-1.18,8.5,6.0,u,0.33,1
 2021-10-22,Hassan Whiteside,UTH,C,SAC,@,7.5,-120,7.43,-0.07,7.5,8.0,u,0.47,0
 2021-10-26,Hassan Whiteside,UTH,C,DEN,vs.,6.5,-105,7.0,0.5,6.5,10.0,o,0.43,1
@@ -5759,7 +5772,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-26,Isaac Okoro,CLE,F,CHI,vs.,8.5,-115,10.4,1.9,8.5,6.0,o,0.44,0
 2022-03-28,Isaac Okoro,CLE,F,ORL,vs.,9.5,110,9.7,0.2,9.5,11.0,o,0.46,1
 2022-03-30,Isaac Okoro,CLE,F,DAL,vs.,9.5,-125,8.7,-0.8,9.5,2.0,u,0.46,1
-2022-03-31,Isaac Okoro,CLE,F,ATL,@,8.5,-106,10.1,1.6,8.5,,o,0.46,0
+2022-03-31,Isaac Okoro,CLE,F,ATL,@,8.5,-106,10.1,1.6,8.5,,o,0.46,nan
 2021-10-27,Isaiah Hartenstein,LAC,C,CLE,vs.,7.5,-120,2.79,-4.71,7.5,2.0,u,0.45,1
 2021-10-29,Isaiah Hartenstein,LAC,C,POR,@,5.5,-105,2.87,-2.63,5.5,4.0,u,0.45,1
 2021-11-01,Isaiah Hartenstein,LAC,C,OKC,vs.,7.5,-125,4.62,-2.88,7.5,2.0,u,0.52,1
@@ -5792,7 +5805,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-13,Isaiah Hartenstein,LAC,C,DET,@,7.5,-111,8.5,1.0,7.5,12.0,o,0.48,1
 2022-03-14,Isaiah Hartenstein,LAC,C,CLE,@,9.5,-125,9.7,0.2,9.5,10.0,o,0.47,1
 2022-03-22,Isaiah Hartenstein,LAC,C,DEN,@,8.5,-125,8.29,-0.21,8.5,14.0,u,0.49,0
-2022-03-31,Isaiah Hartenstein,LAC,C,CHI,@,9.5,-105,10.4,0.9,9.5,,o,0.46,0
+2022-03-31,Isaiah Hartenstein,LAC,C,CHI,@,9.5,-105,10.4,0.9,9.5,,o,0.46,nan
 2022-01-31,Isaiah Jackson,IND,F,LAC,vs.,12.5,-130,3.0,-9.5,12.5,26.0,u,0.5,0
 2022-02-02,Isaiah Jackson,IND,F,ORL,vs.,14.5,100,18.9,4.4,14.5,0.0,o,0.55,0
 2022-02-28,Isaiah Jackson,IND,F,ORL,@,10.5,-149,14.5,4.0,10.5,6.0,o,0.53,0
@@ -5885,7 +5898,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-25,Isaiah Stewart,DET,F,WAS,vs.,8.5,-110,8.6,0.1,8.5,12.0,o,0.47,1
 2022-03-27,Isaiah Stewart,DET,F,NYK,vs.,8.5,108,8.58,0.08,8.5,10.0,o,0.47,1
 2022-03-29,Isaiah Stewart,DET,F,BKN,@,9.5,-113,9.0,-0.5,9.5,15.0,u,0.46,0
-2022-03-31,Isaiah Stewart,DET,F,PHI,vs.,9.5,-113,10.1,0.6,9.5,,o,0.46,0
+2022-03-31,Isaiah Stewart,DET,F,PHI,vs.,9.5,-113,10.1,0.6,9.5,,o,0.46,nan
 2021-12-19,Isaiah Thomas,LAL,G,CHI,@,17.5,-110,19.46,1.96,17.5,13.0,o,0.63,0
 2021-12-23,Isaiah Thomas,LAL,G,SAS,vs.,13.5,-125,12.56,-0.94,13.5,2.0,u,0.61,1
 2021-12-25,Isaiah Thomas,LAL,G,BKN,vs.,9.5,-113,9.59,0.09,9.5,0.0,o,0.6,0
@@ -5982,7 +5995,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-22,Ivica Zubac,LAC,C,DEN,@,11.5,-106,9.8,-1.7,11.5,6.0,u,0.49,1
 2022-03-25,Ivica Zubac,LAC,C,PHI,vs.,10.5,-105,8.7,-1.8,10.5,7.0,u,0.47,1
 2022-03-29,Ivica Zubac,LAC,C,UTH,vs.,9.5,-105,9.6,0.1,9.5,8.0,o,0.46,0
-2022-03-31,Ivica Zubac,LAC,C,CHI,@,9.5,-103,10.0,0.5,9.5,,o,0.46,0
+2022-03-31,Ivica Zubac,LAC,C,CHI,@,9.5,-103,10.0,0.5,9.5,,o,0.46,nan
 2021-12-08,JT Thor,CHA,F,PHI,vs.,6.5,-135,1.95,-4.55,6.5,5.0,u,0.55,1
 2021-12-10,JT Thor,CHA,F,SAC,vs.,7.5,-110,2.78,-4.72,7.5,7.0,u,0.51,1
 2021-10-20,Ja Morant,MEM,G,CLE,vs.,23.5,-107,22.9,-0.6,23.5,37.0,u,0.33,0
@@ -6209,6 +6222,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-20,Jae Crowder,PHO,F,SAC,@,10.5,-120,10.3,-0.2,10.5,6.0,u,0.49,1
 2022-03-23,Jae Crowder,PHO,F,MIN,@,9.5,100,9.3,-0.2,9.5,5.0,u,0.46,1
 2022-03-27,Jae Crowder,PHO,F,PHI,vs.,10.5,-128,9.2,-1.3,10.5,9.0,u,0.47,1
+2022-04-01,Jae Crowder,PHO,F,MEM,@,9.5,-105,10.14,0.64,9.5,,o,0.41,nan
 2021-10-20,Jae'Sean Tate,HOU,F,MIN,@,9.5,-115,12.84,3.34,9.5,2.0,o,0.33,0
 2021-10-22,Jae'Sean Tate,HOU,F,OKC,vs.,9.5,-110,11.68,2.18,9.5,16.0,o,0.47,1
 2021-10-24,Jae'Sean Tate,HOU,F,BOS,vs.,10.5,100,11.26,0.76,10.5,12.0,o,0.43,1
@@ -6346,6 +6360,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-26,Jakob Poeltl,SAS,C,NOR,@,13.5,-105,10.9,-2.6,13.5,12.0,u,0.44,1
 2022-03-28,Jakob Poeltl,SAS,C,HOU,@,15.5,-127,12.3,-3.2,15.5,17.0,u,0.46,0
 2022-03-30,Jakob Poeltl,SAS,C,MEM,vs.,13.5,-115,11.9,-1.6,13.5,9.0,u,0.46,1
+2022-04-01,Jakob Poeltl,SAS,C,POR,vs.,14.5,-105,11.57,-2.93,14.5,,u,0.41,nan
 2021-10-21,Jalen Brunson,DAL,G,ATL,@,9.5,-110,12.72,3.22,9.5,17.0,o,0.47,1
 2021-10-26,Jalen Brunson,DAL,G,HOU,vs.,11.5,-120,13.65,2.15,11.5,11.0,o,0.43,0
 2021-10-28,Jalen Brunson,DAL,G,SAS,vs.,13.5,-130,13.31,-0.19,13.5,19.0,u,0.42,0
@@ -6415,6 +6430,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-27,Jalen Brunson,DAL,G,UTH,vs.,14.5,-115,15.7,1.2,14.5,22.0,o,0.47,1
 2022-03-29,Jalen Brunson,DAL,G,LAL,vs.,15.5,-120,17.1,1.6,15.5,12.0,o,0.46,0
 2022-03-30,Jalen Brunson,DAL,G,CLE,@,17.5,-149,16.0,-1.5,17.5,18.0,u,0.46,0
+2022-04-01,Jalen Brunson,DAL,G,WAS,@,15.5,-115,16.25,0.75,15.5,,o,0.41,nan
 2021-10-20,Jalen Green,HOU,G,MIN,@,14.5,-115,19.72,5.22,14.5,9.0,o,0.33,0
 2021-10-22,Jalen Green,HOU,G,OKC,vs.,13.5,-120,20.04,6.54,13.5,9.0,o,0.47,0
 2021-10-24,Jalen Green,HOU,G,BOS,vs.,11.5,-110,17.66,6.16,11.5,30.0,o,0.43,1
@@ -6615,7 +6631,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-25,James Harden,PHI,G,LAC,@,21.5,100,21.2,-0.3,21.5,29.0,u,0.47,0
 2022-03-27,James Harden,PHI,G,PHO,@,23.5,-141,21.1,-2.4,23.5,14.0,u,0.47,1
 2022-03-29,James Harden,PHI,G,MIL,vs.,22.5,-120,22.0,-0.5,22.5,32.0,u,0.46,0
-2022-03-31,James Harden,PHI,G,DET,@,21.5,-120,22.7,1.2,21.5,,o,0.46,0
+2022-03-31,James Harden,PHI,G,DET,@,21.5,-120,22.7,1.2,21.5,,o,0.46,nan
 2021-11-22,James Johnson,BKN,F,CLE,@,6.5,-115,2.41,-4.09,6.5,9.0,u,0.53,0
 2021-11-27,James Johnson,BKN,F,PHO,vs.,6.5,-125,3.48,-3.02,6.5,6.0,u,0.42,1
 2021-11-30,James Johnson,BKN,F,NYK,vs.,7.5,-120,5.64,-1.86,7.5,7.0,u,0.51,1
@@ -6767,6 +6783,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-25,Jarred Vanderbilt,MIN,F,DAL,vs.,6.5,100,6.3,-0.2,6.5,12.0,u,0.47,0
 2022-03-27,Jarred Vanderbilt,MIN,F,BOS,@,7.5,-133,6.4,-1.1,7.5,11.0,u,0.47,0
 2022-03-30,Jarred Vanderbilt,MIN,F,TOR,@,7.5,-113,5.9,-1.6,7.5,10.0,u,0.46,0
+2022-04-01,Jarred Vanderbilt,MIN,F,DEN,@,7.5,-115,6.88,-0.62,7.5,,u,0.41,nan
 2021-10-20,Jarrett Allen,CLE,C,MEM,@,10.5,-106,12.93,2.43,10.5,25.0,o,0.33,1
 2021-10-22,Jarrett Allen,CLE,C,CHA,vs.,12.5,-110,13.39,0.89,12.5,11.0,o,0.47,0
 2021-10-25,Jarrett Allen,CLE,C,DEN,@,11.5,100,12.71,1.21,11.5,21.0,o,0.45,1
@@ -6954,6 +6971,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-23,Jaylen Brown,BOS,G,UTH,vs.,22.5,-120,24.0,1.5,22.5,26.0,o,0.46,1
 2022-03-27,Jaylen Brown,BOS,G,MIN,vs.,24.5,-111,25.7,1.2,24.5,31.0,o,0.47,1
 2022-03-30,Jaylen Brown,BOS,G,MIA,vs.,23.5,-103,22.9,-0.6,23.5,28.0,u,0.46,0
+2022-04-01,Jaylen Brown,BOS,G,IND,vs.,25.5,-115,21.95,-3.55,25.5,,u,0.41,nan
 2021-12-19,Jaylen Nowell,MIN,G,DAL,vs.,7.5,-115,3.57,-3.93,7.5,16.0,u,0.63,0
 2021-12-21,Jaylen Nowell,MIN,G,DAL,@,10.5,-120,4.31,-6.19,10.5,8.0,u,0.63,1
 2021-12-31,Jaylen Nowell,MIN,G,UTH,@,10.5,-110,6.35,-4.15,10.5,10.0,u,0.57,1
@@ -7039,6 +7057,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-23,Jayson Tatum,BOS,F,UTH,vs.,29.5,-112,27.4,-2.1,29.5,26.0,u,0.46,1
 2022-03-27,Jayson Tatum,BOS,F,MIN,vs.,29.5,-108,29.3,-0.2,29.5,34.0,u,0.47,0
 2022-03-30,Jayson Tatum,BOS,F,MIA,vs.,27.5,-103,25.7,-1.8,27.5,23.0,u,0.46,1
+2022-04-01,Jayson Tatum,BOS,F,IND,vs.,28.5,-115,28.69,0.19,28.5,,o,0.41,nan
 2021-10-22,Jeff Green,DEN,F,SAS,vs.,7.5,-125,9.77,2.27,7.5,2.0,o,0.47,0
 2021-10-25,Jeff Green,DEN,F,CLE,vs.,7.5,-125,9.52,2.02,7.5,5.0,o,0.45,0
 2021-10-26,Jeff Green,DEN,F,UTH,@,6.5,-125,8.7,2.2,6.5,8.0,o,0.43,1
@@ -7104,6 +7123,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-26,Jeff Green,DEN,F,OKC,vs.,9.5,100,9.7,0.2,9.5,8.0,o,0.44,0
 2022-03-28,Jeff Green,DEN,F,CHA,@,8.5,-159,11.1,2.6,8.5,14.0,o,0.46,1
 2022-03-30,Jeff Green,DEN,F,IND,@,9.5,-115,10.5,1.0,9.5,7.0,o,0.46,0
+2022-04-01,Jeff Green,DEN,F,MIN,vs.,9.5,-105,11.05,1.55,9.5,,o,0.41,nan
 2021-10-20,Jerami Grant,DET,F,CHI,vs.,21.5,-113,20.56,-0.94,21.5,24.0,u,0.33,0
 2021-10-23,Jerami Grant,DET,F,CHI,@,21.5,-115,20.36,-1.14,21.5,9.0,u,0.45,1
 2021-10-30,Jerami Grant,DET,F,ORL,vs.,20.5,-110,20.58,0.08,20.5,22.0,o,0.45,1
@@ -7379,7 +7399,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-25,Joel Embiid,PHI,C,LAC,@,31.5,-120,29.6,-1.9,31.5,27.0,u,0.47,1
 2022-03-27,Joel Embiid,PHI,C,PHO,@,30.5,105,29.5,-1.0,30.5,37.0,u,0.47,0
 2022-03-29,Joel Embiid,PHI,C,MIL,vs.,31.5,105,30.8,-0.7,31.5,29.0,u,0.46,1
-2022-03-31,Joel Embiid,PHI,C,DET,@,30.5,-120,31.8,1.3,30.5,,o,0.46,0
+2022-03-31,Joel Embiid,PHI,C,DET,@,30.5,-120,31.8,1.3,30.5,,o,0.46,nan
 2021-10-21,John Collins,ATL,F,DAL,vs.,16.5,-114,15.7,-0.8,16.5,16.0,u,0.47,1
 2021-10-23,John Collins,ATL,F,CLE,@,15.5,-110,17.97,2.47,15.5,6.0,o,0.45,0
 2021-10-25,John Collins,ATL,F,DET,vs.,14.5,-115,14.74,0.24,14.5,22.0,o,0.45,1
@@ -7583,7 +7603,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-23,Jordan Clarkson,UTH,G,BOS,@,17.5,-115,18.7,1.2,17.5,10.0,o,0.46,0
 2022-03-25,Jordan Clarkson,UTH,G,CHA,@,17.5,-105,19.1,1.6,17.5,19.0,o,0.47,1
 2022-03-27,Jordan Clarkson,UTH,G,DAL,@,18.5,-115,17.91,-0.59,18.5,14.0,u,0.47,1
-2022-03-31,Jordan Clarkson,UTH,G,LAL,vs.,16.5,-128,16.9,0.4,16.5,,o,0.46,0
+2022-03-31,Jordan Clarkson,UTH,G,LAL,vs.,16.5,-128,16.9,0.4,16.5,,o,0.46,nan
 2021-10-21,Jordan Nwora,MIL,F,MIA,@,12.5,-105,15.06,2.56,12.5,11.0,o,0.47,0
 2021-10-25,Jordan Nwora,MIL,F,IND,@,12.5,-115,12.11,-0.39,12.5,9.0,u,0.45,1
 2021-10-27,Jordan Nwora,MIL,F,MIN,vs.,10.5,-115,11.73,1.23,10.5,9.0,o,0.45,0
@@ -7920,7 +7940,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-22,Jrue Holiday,MIL,G,CHI,vs.,18.5,-115,18.8,0.3,18.5,27.0,o,0.49,1
 2022-03-24,Jrue Holiday,MIL,G,WAS,vs.,24.5,-108,20.1,-4.4,24.5,24.0,u,0.42,1
 2022-03-29,Jrue Holiday,MIL,G,PHI,@,17.5,-111,17.6,0.1,17.5,18.0,o,0.46,1
-2022-03-31,Jrue Holiday,MIL,G,BKN,@,19.5,-115,18.7,-0.8,19.5,,u,0.46,0
+2022-03-31,Jrue Holiday,MIL,G,BKN,@,19.5,-115,18.7,-0.8,19.5,,u,0.46,nan
 2021-10-19,Juan Toscano-Anderson,GSW,F,LAL,@,6.5,-135,4.69,-1.81,6.5,6.0,u,0.5,1
 2021-10-26,Juan Toscano-Anderson,GSW,F,OKC,@,3.5,-120,5.08,1.58,3.5,5.0,o,0.43,1
 2021-11-07,Juan Toscano-Anderson,GSW,F,HOU,vs.,4.5,-120,4.97,0.47,4.5,8.0,o,0.46,1
@@ -8262,6 +8282,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-25,Karl-Anthony Towns,MIN,C,DAL,vs.,24.5,-115,23.2,-1.3,24.5,20.0,u,0.47,1
 2022-03-27,Karl-Anthony Towns,MIN,C,BOS,@,23.5,-108,23.4,-0.1,23.5,19.0,u,0.47,1
 2022-03-30,Karl-Anthony Towns,MIN,C,TOR,@,22.5,-120,24.8,2.3,22.5,16.0,o,0.46,0
+2022-04-01,Karl-Anthony Towns,MIN,C,DEN,@,24.5,-115,26.96,2.46,24.5,,o,0.41,nan
 2022-01-04,Keifer Sykes,IND,G,NYK,@,10.5,-130,10.9,0.4,10.5,22.0,o,0.55,1
 2022-01-05,Keifer Sykes,IND,G,BKN,vs.,14.5,-120,12.4,-2.1,14.5,18.0,u,0.56,0
 2022-01-08,Keifer Sykes,IND,G,UTH,vs.,13.5,-141,12.0,-1.5,13.5,7.0,u,0.62,1
@@ -8363,6 +8384,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-26,Keldon Johnson,SAS,F,NOR,@,18.5,-135,19.7,1.2,18.5,21.0,o,0.44,1
 2022-03-28,Keldon Johnson,SAS,F,HOU,@,19.5,-105,19.2,-0.3,19.5,21.0,u,0.46,0
 2022-03-30,Keldon Johnson,SAS,F,MEM,vs.,19.5,-113,18.7,-0.8,19.5,23.0,u,0.46,0
+2022-04-01,Keldon Johnson,SAS,F,POR,vs.,20.5,-110,17.85,-2.65,20.5,,u,0.41,nan
 2021-10-20,Kelly Olynyk,DET,F,CHI,vs.,10.5,-110,11.41,0.91,10.5,10.0,o,0.33,0
 2021-10-31,Kelly Olynyk,DET,F,BKN,@,13.5,-125,11.17,-2.33,13.5,9.0,u,0.49,1
 2021-11-02,Kelly Olynyk,DET,F,MIL,vs.,12.5,-115,10.8,-1.7,12.5,5.0,u,0.55,1
@@ -8647,7 +8669,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-26,Kevin Durant,BKN,F,MIA,@,27.5,-105,28.6,1.1,27.5,23.0,o,0.44,0
 2022-03-27,Kevin Durant,BKN,F,CHA,vs.,28.5,-115,30.1,1.6,28.5,27.0,o,0.47,0
 2022-03-29,Kevin Durant,BKN,F,DET,vs.,27.5,-105,30.0,2.5,27.5,41.0,o,0.46,1
-2022-03-31,Kevin Durant,BKN,F,MIL,vs.,29.5,-120,30.0,0.5,29.5,,o,0.46,0
+2022-03-31,Kevin Durant,BKN,F,MIL,vs.,29.5,-120,30.0,0.5,29.5,,o,0.46,nan
 2021-10-21,Kevin Huerter,ATL,G,DAL,vs.,9.5,-105,9.55,0.05,9.5,6.0,o,0.47,0
 2021-10-27,Kevin Huerter,ATL,G,NOR,@,8.5,100,8.6,0.1,8.5,2.0,o,0.45,0
 2021-10-30,Kevin Huerter,ATL,G,PHI,@,6.5,-133,8.69,2.19,6.5,3.0,o,0.45,0
@@ -8709,7 +8731,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-23,Kevin Huerter,ATL,G,DET,@,12.5,-120,13.6,1.1,12.5,8.0,o,0.46,0
 2022-03-25,Kevin Huerter,ATL,G,GSW,vs.,12.5,-120,12.2,-0.3,12.5,20.0,u,0.47,0
 2022-03-30,Kevin Huerter,ATL,G,OKC,@,14.5,-113,12.6,-1.9,14.5,20.0,u,0.46,0
-2022-03-31,Kevin Huerter,ATL,G,CLE,vs.,13.5,-105,12.0,-1.5,13.5,,u,0.46,0
+2022-03-31,Kevin Huerter,ATL,G,CLE,vs.,13.5,-105,12.0,-1.5,13.5,,u,0.46,nan
 2021-12-14,Kevin Knox,NYK,F,GSW,vs.,11.5,-115,3.21,-8.29,11.5,9.0,u,0.53,1
 2021-10-27,Kevin Love,CLE,F,LAC,@,9.5,-111,9.9,0.4,9.5,10.0,o,0.45,1
 2021-10-29,Kevin Love,CLE,F,LAL,@,11.5,-128,10.93,-0.57,11.5,4.0,u,0.45,1
@@ -8757,7 +8779,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-24,Kevin Love,CLE,F,TOR,@,11.5,-169,14.2,2.7,11.5,12.0,o,0.42,1
 2022-03-28,Kevin Love,CLE,F,ORL,vs.,11.5,-105,15.2,3.7,11.5,19.0,o,0.46,1
 2022-03-30,Kevin Love,CLE,F,DAL,vs.,13.5,-110,17.3,3.8,13.5,8.0,o,0.46,0
-2022-03-31,Kevin Love,CLE,F,ATL,@,12.5,-115,19.3,6.8,12.5,,o,0.46,0
+2022-03-31,Kevin Love,CLE,F,ATL,@,12.5,-115,19.3,6.8,12.5,,o,0.46,nan
 2022-01-02,Kevin Pangos,CLE,G,IND,vs.,7.5,-105,6.5,-1.0,7.5,7.0,u,0.56,1
 2021-10-20,Kevin Porter,HOU,G,MIN,@,17.5,-105,17.56,0.06,17.5,11.0,o,0.33,0
 2021-10-22,Kevin Porter,HOU,G,OKC,vs.,15.5,-113,16.64,1.14,15.5,18.0,o,0.47,1
@@ -8961,7 +8983,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-19,Khris Middleton,MIL,F,MIN,@,24.5,-105,23.3,-1.2,24.5,15.0,u,0.48,1
 2022-03-26,Khris Middleton,MIL,F,MEM,@,22.5,-115,20.8,-1.7,22.5,16.0,u,0.44,1
 2022-03-29,Khris Middleton,MIL,F,PHI,@,19.5,100,19.2,-0.3,19.5,22.0,u,0.46,0
-2022-03-31,Khris Middleton,MIL,F,BKN,@,21.5,-105,20.9,-0.6,21.5,,u,0.46,0
+2022-03-31,Khris Middleton,MIL,F,BKN,@,21.5,-105,20.9,-0.6,21.5,,u,0.46,nan
 2021-10-20,Killian Hayes,DET,G,CHI,vs.,8.5,-113,9.29,0.79,8.5,0.0,o,0.33,0
 2021-10-23,Killian Hayes,DET,G,CHI,@,7.5,116,8.29,0.79,7.5,2.0,o,0.45,0
 2021-10-25,Killian Hayes,DET,G,ATL,@,6.5,-113,8.03,1.53,6.5,12.0,o,0.45,1
@@ -9275,7 +9297,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-26,Kyrie Irving,BKN,G,MIA,@,28.5,-118,26.7,-1.8,28.5,11.0,u,0.44,1
 2022-03-27,Kyrie Irving,BKN,G,CHA,vs.,28.5,-115,27.1,-1.4,28.5,16.0,u,0.47,1
 2022-03-29,Kyrie Irving,BKN,G,DET,vs.,24.5,-125,27.5,3.0,24.5,24.0,o,0.46,0
-2022-03-31,Kyrie Irving,BKN,G,MIL,vs.,26.5,-115,27.3,0.8,26.5,,o,0.46,0
+2022-03-31,Kyrie Irving,BKN,G,MIL,vs.,26.5,-115,27.3,0.8,26.5,,o,0.46,nan
 2021-10-19,LaMarcus Aldridge,BKN,C,MIL,@,7.5,-120,11.7,4.2,7.5,1.0,o,0.5,0
 2021-10-24,LaMarcus Aldridge,BKN,C,CHA,vs.,13.5,-121,11.2,-2.3,13.5,9.0,u,0.43,1
 2021-10-27,LaMarcus Aldridge,BKN,C,MIA,vs.,9.5,-128,11.4,1.9,9.5,6.0,o,0.45,0
@@ -9390,7 +9412,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-24,Lamar Stevens,CLE,F,TOR,@,7.5,-110,7.4,-0.1,7.5,16.0,u,0.42,0
 2022-03-28,Lamar Stevens,CLE,F,ORL,vs.,9.5,100,8.8,-0.7,9.5,6.0,u,0.46,1
 2022-03-30,Lamar Stevens,CLE,F,DAL,vs.,9.5,-125,9.4,-0.1,9.5,16.0,u,0.46,0
-2022-03-31,Lamar Stevens,CLE,F,ATL,@,9.5,-105,10.6,1.1,9.5,,o,0.46,0
+2022-03-31,Lamar Stevens,CLE,F,ATL,@,9.5,-105,10.6,1.1,9.5,,o,0.46,nan
 2022-01-14,Lance Stephenson,IND,G,PHO,vs.,9.5,-120,7.11,-2.39,9.5,5.0,u,0.53,1
 2022-01-20,Lance Stephenson,IND,G,GSW,@,8.5,-115,7.2,-1.3,8.5,4.0,u,0.6,1
 2022-01-29,Lance Stephenson,IND,G,DAL,@,7.5,-115,6.74,-0.76,7.5,2.0,u,0.46,1
@@ -9532,7 +9554,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-26,Lauri Markkanen,CLE,F,CHI,vs.,15.5,-111,16.7,1.2,15.5,14.0,o,0.44,0
 2022-03-28,Lauri Markkanen,CLE,F,ORL,vs.,15.5,-106,16.3,0.8,15.5,20.0,o,0.46,1
 2022-03-30,Lauri Markkanen,CLE,F,DAL,vs.,14.5,-125,16.3,1.8,14.5,13.0,o,0.46,0
-2022-03-31,Lauri Markkanen,CLE,F,ATL,@,14.5,-128,16.8,2.3,14.5,,o,0.46,0
+2022-03-31,Lauri Markkanen,CLE,F,ATL,@,14.5,-128,16.8,2.3,14.5,,o,0.46,nan
 2021-10-19,LeBron James,LAL,F,GSW,vs.,23.5,-125,26.34,2.84,23.5,34.0,o,0.5,1
 2021-10-22,LeBron James,LAL,F,PHO,vs.,24.5,-105,25.7,1.2,24.5,25.0,o,0.47,1
 2021-10-24,LeBron James,LAL,F,MEM,vs.,24.5,-118,25.85,1.35,24.5,19.0,o,0.43,0
@@ -9801,6 +9823,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-27,Luka Doncic,DAL,F,UTH,vs.,28.5,-120,28.6,0.1,28.5,32.0,o,0.47,1
 2022-03-29,Luka Doncic,DAL,F,LAL,vs.,29.5,-110,31.0,1.5,29.5,34.0,o,0.46,1
 2022-03-30,Luka Doncic,DAL,F,CLE,@,30.5,-113,28.0,-2.5,30.5,35.0,u,0.46,0
+2022-04-01,Luka Doncic,DAL,F,WAS,@,29.5,-110,29.53,0.03,29.5,,o,0.41,nan
 2021-11-24,Luka Garza,DET,C,MIL,@,6.5,-127,9.7,3.2,6.5,6.0,o,0.46,0
 2021-12-26,Luka Garza,DET,C,SAS,@,10.5,-120,3.5,-7.0,10.5,20.0,u,0.57,0
 2021-12-29,Luka Garza,DET,C,NYK,vs.,10.5,-103,3.41,-7.09,10.5,4.0,u,0.58,1
@@ -9856,7 +9879,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-16,Luke Kennard,LAC,G,TOR,vs.,10.5,115,10.8,0.3,10.5,0.0,o,0.46,0
 2022-03-18,Luke Kennard,LAC,G,UTH,@,9.5,-110,9.0,-0.5,9.5,13.0,u,0.43,0
 2022-03-22,Luke Kennard,LAC,G,DEN,@,9.5,-125,9.6,0.1,9.5,8.0,o,0.49,0
-2022-03-31,Luke Kennard,LAC,G,CHI,@,9.5,-110,10.1,0.6,9.5,,o,0.46,0
+2022-03-31,Luke Kennard,LAC,G,CHI,@,9.5,-110,10.1,0.6,9.5,,o,0.46,nan
 2021-11-30,Malachi Flynn,TOR,G,MEM,vs.,5.5,105,2.75,-2.75,5.5,5.0,u,0.51,1
 2022-03-01,Malachi Flynn,TOR,G,BKN,vs.,12.5,-125,9.5,-3.0,12.5,15.0,u,0.53,0
 2022-03-03,Malachi Flynn,TOR,G,DET,vs.,13.5,-115,10.0,-3.5,13.5,11.0,u,0.55,1
@@ -10000,7 +10023,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-23,Malik Monk,LAL,G,PHI,vs.,13.5,-115,14.3,0.8,13.5,23.0,o,0.46,1
 2022-03-27,Malik Monk,LAL,G,NOR,@,10.5,-115,12.2,1.7,10.5,23.0,o,0.47,1
 2022-03-29,Malik Monk,LAL,G,DAL,@,16.5,-105,14.2,-2.3,16.5,28.0,u,0.46,0
-2022-03-31,Malik Monk,LAL,G,UTH,@,17.5,-120,15.0,-2.5,17.5,,u,0.46,0
+2022-03-31,Malik Monk,LAL,G,UTH,@,18.5,-115,15.0,-3.5,18.5,,u,0.46,nan
 2022-02-05,Mamadi Diakite,OKC,F,SAC,@,8.5,-125,5.8,-2.7,8.5,9.0,u,0.52,0
 2022-02-07,Mamadi Diakite,OKC,F,GSW,vs.,8.5,-128,6.8,-1.7,8.5,6.0,u,0.55,1
 2021-10-21,Marcus Morris,LAC,F,GSW,@,13.5,-105,15.51,2.0,13.5,10.0,o,0.47,0
@@ -10054,7 +10077,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-18,Marcus Morris,LAC,F,UTH,@,17.5,-122,16.9,-0.6,17.5,5.0,u,0.43,1
 2022-03-22,Marcus Morris,LAC,F,DEN,@,16.5,-115,16.0,-0.5,16.5,14.0,u,0.49,1
 2022-03-29,Marcus Morris,LAC,F,UTH,vs.,12.5,-113,11.6,-0.9,12.5,3.0,u,0.46,1
-2022-03-31,Marcus Morris,LAC,F,CHI,@,12.5,105,13.0,0.5,12.5,,o,0.46,0
+2022-03-31,Marcus Morris,LAC,F,CHI,@,12.5,105,13.0,0.5,12.5,,o,0.46,nan
 2021-10-20,Marcus Smart,BOS,G,NYK,@,13.5,-128,12.11,-1.39,13.5,15.0,u,0.33,0
 2021-10-22,Marcus Smart,BOS,G,TOR,vs.,12.5,100,14.28,1.78,12.5,0.0,o,0.47,0
 2021-10-24,Marcus Smart,BOS,G,HOU,@,12.5,-111,13.84,1.34,12.5,8.0,o,0.43,0
@@ -10120,6 +10143,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-27,Marcus Smart,BOS,G,MIN,vs.,13.5,-125,12.2,-1.3,13.5,7.0,u,0.47,1
 2022-03-28,Marcus Smart,BOS,G,TOR,@,14.5,-103,12.9,-1.6,14.5,28.0,u,0.46,0
 2022-03-30,Marcus Smart,BOS,G,MIA,vs.,13.5,-120,10.6,-2.9,13.5,10.0,u,0.46,1
+2022-04-01,Marcus Smart,BOS,G,IND,vs.,13.5,-115,11.1,-2.4,13.5,,u,0.41,nan
 2022-03-02,Markelle Fultz,ORL,G,IND,vs.,8.5,-105,7.9,-0.6,8.5,11.0,u,0.54,0
 2022-03-08,Markelle Fultz,ORL,G,PHO,vs.,9.5,-125,9.2,-0.3,9.5,11.0,u,0.46,0
 2022-03-13,Markelle Fultz,ORL,G,PHI,vs.,9.5,-110,7.2,-2.3,9.5,8.0,u,0.48,1
@@ -10170,7 +10194,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-23,Marvin Bagley,DET,F,ATL,vs.,11.5,-125,13.7,2.2,11.5,13.0,o,0.46,1
 2022-03-27,Marvin Bagley,DET,F,NYK,vs.,15.5,-128,9.34,-6.16,15.5,27.0,u,0.47,0
 2022-03-29,Marvin Bagley,DET,F,BKN,@,16.5,-120,17.5,1.0,16.5,11.0,o,0.46,0
-2022-03-31,Marvin Bagley,DET,F,PHI,vs.,15.5,-107,15.8,0.3,15.5,,o,0.46,0
+2022-03-31,Marvin Bagley,DET,F,PHI,vs.,15.5,-107,15.8,0.3,15.5,,o,0.46,nan
 2021-10-20,Mason Plumlee,CHA,F,IND,vs.,11.5,-110,9.97,-1.53,11.5,8.0,u,0.33,1
 2021-10-22,Mason Plumlee,CHA,F,CLE,@,10.5,100,10.91,0.41,10.5,7.0,o,0.47,0
 2021-10-24,Mason Plumlee,CHA,F,BKN,@,9.5,-121,9.85,0.35,9.5,5.0,o,0.43,0
@@ -10289,7 +10313,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-25,Matisse Thybulle,PHI,G,LAC,@,5.5,-120,5.1,-0.4,5.5,13.0,u,0.47,0
 2022-03-27,Matisse Thybulle,PHI,G,PHO,@,5.5,105,5.1,-0.4,5.5,3.0,u,0.47,1
 2022-03-29,Matisse Thybulle,PHI,G,MIL,vs.,5.5,100,5.1,-0.4,5.5,2.0,u,0.46,1
-2022-03-31,Matisse Thybulle,PHI,G,DET,@,4.5,-130,5.8,1.3,4.5,,o,0.46,0
+2022-03-31,Matisse Thybulle,PHI,G,DET,@,4.5,-130,5.8,1.3,4.5,,o,0.46,nan
 2022-02-06,Matt Thomas,CHI,G,PHI,vs.,9.5,-105,3.8,-5.7,9.5,5.0,u,0.56,1
 2021-10-27,Maurice Harkless,SAC,F,PHO,@,6.5,100,7.54,1.04,6.5,2.0,o,0.45,0
 2021-10-29,Maurice Harkless,SAC,F,NOR,@,6.5,-120,6.14,-0.36,6.5,0.0,u,0.45,1
@@ -10463,6 +10487,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-24,Mikal Bridges,PHO,F,DEN,@,15.5,-125,13.8,-1.7,15.5,22.0,u,0.42,0
 2022-03-27,Mikal Bridges,PHO,F,PHI,vs.,15.5,-115,14.2,-1.3,15.5,11.0,u,0.47,1
 2022-03-30,Mikal Bridges,PHO,F,GSW,@,15.5,-113,14.3,-1.2,15.5,22.0,u,0.46,0
+2022-04-01,Mikal Bridges,PHO,F,MEM,@,15.5,-110,15.59,0.09,15.5,,o,0.41,nan
 2021-10-20,Mike Conley,UTH,G,OKC,vs.,14.5,-113,14.73,0.23,14.5,10.0,o,0.33,0
 2021-10-22,Mike Conley,UTH,G,SAC,@,13.5,-105,16.6,3.1,13.5,17.0,o,0.47,1
 2021-10-26,Mike Conley,UTH,G,DEN,vs.,13.5,-113,16.21,2.71,13.5,15.0,o,0.43,1
@@ -10529,7 +10554,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-25,Mike Conley,UTH,G,CHA,@,13.5,-115,14.7,1.2,13.5,11.0,o,0.47,0
 2022-03-27,Mike Conley,UTH,G,DAL,@,12.5,-145,13.7,1.2,12.5,14.0,o,0.47,1
 2022-03-29,Mike Conley,UTH,G,LAC,@,12.5,-127,13.1,0.6,12.5,19.0,o,0.46,1
-2022-03-31,Mike Conley,UTH,G,LAL,vs.,13.5,-105,14.0,0.5,13.5,,o,0.46,0
+2022-03-31,Mike Conley,UTH,G,LAL,vs.,13.5,-105,14.0,0.5,13.5,,o,0.46,nan
 2021-11-04,Mike Muscala,OKC,F,LAL,@,6.5,100,5.83,-0.67,6.5,6.0,u,0.53,1
 2021-11-10,Mike Muscala,OKC,F,NOR,@,6.5,-130,6.67,0.17,6.5,12.0,o,0.45,1
 2021-11-12,Mike Muscala,OKC,F,SAC,vs.,7.5,-115,6.78,-0.72,7.5,7.0,u,0.46,1
@@ -10823,6 +10848,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-24,Monte Morris,DEN,G,PHO,vs.,11.5,-113,12.4,0.9,11.5,15.0,o,0.42,1
 2022-03-28,Monte Morris,DEN,G,CHA,@,11.5,-110,13.5,2.0,11.5,14.0,o,0.46,1
 2022-03-30,Monte Morris,DEN,G,IND,@,11.5,-149,14.2,2.7,11.5,11.0,o,0.46,0
+2022-04-01,Monte Morris,DEN,G,MIN,vs.,12.5,-115,13.14,0.64,12.5,,o,0.41,nan
 2021-10-20,Montrezl Harrell,WAS,F,TOR,@,12.5,-120,13.44,0.94,12.5,22.0,o,0.33,1
 2021-10-22,Montrezl Harrell,WAS,F,IND,vs.,17.5,-115,15.17,-2.33,17.5,14.0,u,0.47,1
 2021-10-25,Montrezl Harrell,WAS,F,BKN,@,13.5,-120,15.43,1.93,13.5,10.0,o,0.45,0
@@ -10898,7 +10924,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-28,Moritz Wagner,ORL,F,CLE,@,10.5,-111,11.8,1.3,10.5,2.0,o,0.46,0
 2022-03-30,Moritz Wagner,ORL,F,WAS,@,12.5,-105,15.7,3.2,12.5,4.0,o,0.46,0
 2022-03-30,Moses Brown,CLE,C,DAL,vs.,5.5,-115,8.6,3.1,5.5,12.0,o,0.46,1
-2022-03-31,Moses Brown,CLE,C,ATL,@,7.5,-115,4.1,-3.4,7.5,,u,0.46,0
+2022-03-31,Moses Brown,CLE,C,ATL,@,7.5,-115,4.1,-3.4,7.5,,u,0.46,nan
 2022-02-01,Moses Moody,GSW,G,SAS,@,13.5,-115,10.8,-2.7,13.5,20.0,u,0.5,0
 2022-02-03,Moses Moody,GSW,G,SAC,vs.,10.5,-120,3.9,-6.6,10.5,6.0,u,0.54,1
 2022-03-10,Moses Moody,GSW,G,DEN,@,10.5,-134,5.3,-5.2,10.5,5.0,u,0.42,1
@@ -11093,7 +11119,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-23,Nic Claxton,BKN,F,MEM,@,7.5,-120,7.1,-0.4,7.5,7.0,u,0.46,1
 2022-03-26,Nic Claxton,BKN,F,MIA,@,6.5,-130,6.6,0.1,6.5,10.0,o,0.44,1
 2022-03-27,Nic Claxton,BKN,F,CHA,vs.,8.5,-125,2.9,-5.6,8.5,9.0,u,0.47,0
-2022-03-31,Nic Claxton,BKN,F,MIL,vs.,7.5,-125,6.1,-1.4,7.5,,u,0.46,0
+2022-03-31,Nic Claxton,BKN,F,MIL,vs.,7.5,-125,6.1,-1.4,7.5,,u,0.46,nan
 2021-11-10,Nick Richards,CHA,C,MEM,@,4.5,-130,5.4,0.9,4.5,4.0,o,0.45,0
 2021-11-12,Nick Richards,CHA,C,NYK,vs.,3.5,150,3.35,-0.15,3.5,5.0,u,0.46,0
 2021-12-08,Nick Richards,CHA,C,PHI,vs.,4.5,-140,5.4,0.9,4.5,8.0,o,0.55,1
@@ -11181,7 +11207,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-22,Nicolas Batum,LAC,G,DEN,@,7.5,-120,8.6,1.1,7.5,9.0,o,0.49,1
 2022-03-25,Nicolas Batum,LAC,G,PHI,vs.,6.5,-120,5.6,-0.9,6.5,9.0,u,0.47,0
 2022-03-29,Nicolas Batum,LAC,G,UTH,vs.,6.5,-125,5.4,-1.1,6.5,8.0,u,0.46,0
-2022-03-31,Nicolas Batum,LAC,G,CHI,@,6.5,-114,5.6,-0.9,6.5,,u,0.46,0
+2022-03-31,Nicolas Batum,LAC,G,CHI,@,6.5,-114,5.6,-0.9,6.5,,u,0.46,nan
 2021-10-20,Nikola Jokic,DEN,C,PHO,@,26.5,-107,26.43,-0.07,26.5,27.0,u,0.33,0
 2021-10-22,Nikola Jokic,DEN,C,SAS,vs.,27.5,-103,27.7,0.2,27.5,32.0,o,0.47,1
 2021-10-25,Nikola Jokic,DEN,C,CLE,vs.,26.5,-113,27.34,0.84,26.5,24.0,o,0.45,0
@@ -11253,6 +11279,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-26,Nikola Jokic,DEN,C,OKC,vs.,23.5,-105,26.2,2.7,23.5,35.0,o,0.44,1
 2022-03-28,Nikola Jokic,DEN,C,CHA,@,27.5,-132,27.9,0.4,27.5,26.0,o,0.46,0
 2022-03-30,Nikola Jokic,DEN,C,IND,@,26.5,-120,27.8,1.3,26.5,37.0,o,0.46,1
+2022-04-01,Nikola Jokic,DEN,C,MIN,vs.,28.5,-120,30.11,1.61,28.5,,o,0.41,nan
 2021-10-20,Nikola Vucevic,CHI,C,DET,@,22.5,-113,21.46,-1.03,22.5,15.0,u,0.33,1
 2021-10-22,Nikola Vucevic,CHI,C,NOR,vs.,21.5,-113,22.99,1.49,21.5,10.0,o,0.47,0
 2021-10-23,Nikola Vucevic,CHI,C,DET,vs.,21.5,-128,20.33,-1.17,21.5,15.0,u,0.45,1
@@ -11320,7 +11347,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-26,Nikola Vucevic,CHI,C,CLE,@,17.5,-113,14.4,-3.1,17.5,16.0,u,0.44,1
 2022-03-28,Nikola Vucevic,CHI,C,NYK,@,16.5,-113,14.3,-2.2,16.5,16.0,u,0.46,1
 2022-03-29,Nikola Vucevic,CHI,C,WAS,@,18.5,-113,15.4,-3.1,18.5,27.0,u,0.46,0
-2022-03-31,Nikola Vucevic,CHI,C,LAC,vs.,19.5,-120,15.0,-4.5,19.5,,u,0.46,0
+2022-03-31,Nikola Vucevic,CHI,C,LAC,vs.,19.5,-120,15.0,-4.5,19.5,,u,0.46,nan
 2021-10-20,Norman Powell,POR,G,SAC,vs.,18.5,-113,17.99,-0.51,18.5,14.0,u,0.33,1
 2021-10-23,Norman Powell,POR,G,PHO,vs.,17.5,-105,18.16,0.66,17.5,16.0,o,0.45,0
 2021-10-29,Norman Powell,POR,G,LAC,vs.,13.5,-120,15.84,2.34,13.5,12.0,o,0.45,0
@@ -11467,7 +11494,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-23,Onyeka Okongwu,ATL,F,DET,@,8.5,-125,8.4,-0.1,8.5,11.0,u,0.46,0
 2022-03-25,Onyeka Okongwu,ATL,F,GSW,vs.,8.5,-115,7.1,-1.4,8.5,0.0,u,0.47,1
 2022-03-30,Onyeka Okongwu,ATL,F,OKC,@,7.5,-115,7.2,-0.3,7.5,3.0,u,0.46,1
-2022-03-31,Onyeka Okongwu,ATL,F,CLE,vs.,6.5,-120,7.1,0.6,6.5,,o,0.46,0
+2022-03-31,Onyeka Okongwu,ATL,F,CLE,vs.,6.5,-120,7.1,0.6,6.5,,o,0.46,nan
 2021-10-27,Oshae Brissett,IND,F,TOR,@,7.5,-130,8.36,0.85,7.5,6.0,o,0.45,0
 2021-10-29,Oshae Brissett,IND,F,BKN,@,8.5,105,8.47,-0.03,8.5,0.0,u,0.45,1
 2021-12-06,Oshae Brissett,IND,F,WAS,vs.,5.5,-110,3.24,-2.26,5.5,12.0,u,0.51,0
@@ -11770,7 +11797,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-02-05,Pat Connaughton,MIL,G,POR,@,7.5,-110,9.6,2.1,7.5,3.0,o,0.52,0
 2022-02-08,Pat Connaughton,MIL,G,LAL,@,6.5,-125,9.9,3.4,6.5,8.0,o,0.57,1
 2022-03-29,Pat Connaughton,MIL,G,PHI,@,7.5,-105,7.9,0.4,7.5,2.0,o,0.46,0
-2022-03-31,Pat Connaughton,MIL,G,BKN,@,6.5,-115,8.4,1.9,6.5,,o,0.46,0
+2022-03-31,Pat Connaughton,MIL,G,BKN,@,6.5,-115,8.4,1.9,6.5,,o,0.46,nan
 2021-10-25,Patrick Beverley,MIN,G,NOR,vs.,5.5,-130,7.14,1.65,5.5,13.0,o,0.45,1
 2021-10-27,Patrick Beverley,MIN,G,MIL,@,5.5,-135,6.7,1.2,5.5,6.0,o,0.45,1
 2021-10-30,Patrick Beverley,MIN,G,DEN,vs.,6.5,100,6.88,0.38,6.5,7.0,o,0.45,1
@@ -11824,12 +11851,13 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-25,Patrick Beverley,MIN,G,DAL,vs.,10.5,-105,10.7,0.2,10.5,10.0,o,0.47,0
 2022-03-27,Patrick Beverley,MIN,G,BOS,@,10.5,-115,9.8,-0.7,10.5,7.0,u,0.47,1
 2022-03-30,Patrick Beverley,MIN,G,TOR,@,9.5,-127,10.2,0.7,9.5,10.0,o,0.46,1
+2022-04-01,Patrick Beverley,MIN,G,DEN,@,10.5,-125,9.13,-1.38,10.5,,u,0.41,nan
 2021-10-20,Patrick Williams,CHI,F,DET,@,9.5,100,10.55,1.05,9.5,6.0,o,0.33,0
 2021-10-22,Patrick Williams,CHI,F,NOR,vs.,8.5,-127,10.71,2.21,8.5,8.0,o,0.47,0
 2021-10-23,Patrick Williams,CHI,F,DET,vs.,8.5,-115,9.51,1.01,8.5,9.0,o,0.45,1
 2021-10-25,Patrick Williams,CHI,F,TOR,@,8.5,100,10.63,2.13,8.5,4.0,o,0.45,0
 2021-10-28,Patrick Williams,CHI,F,NYK,vs.,7.5,-110,9.67,2.17,7.5,6.0,o,0.42,0
-2022-03-31,Patrick Williams,CHI,F,LAC,vs.,5.5,-125,4.9,-0.6,5.5,,u,0.46,0
+2022-03-31,Patrick Williams,CHI,F,LAC,vs.,5.5,-125,4.9,-0.6,5.5,,u,0.46,nan
 2021-10-19,Patty Mills,BKN,G,MIL,@,7.5,-120,11.37,3.87,7.5,21.0,o,0.5,1
 2021-10-22,Patty Mills,BKN,G,PHI,@,9.5,-106,11.71,2.21,9.5,11.0,o,0.47,1
 2021-10-24,Patty Mills,BKN,G,CHA,vs.,10.5,-125,12.18,1.68,10.5,5.0,o,0.43,0
@@ -11893,7 +11921,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-18,Patty Mills,BKN,G,POR,vs.,9.5,-105,12.0,2.5,9.5,0.0,o,0.43,0
 2022-03-21,Patty Mills,BKN,G,UTH,vs.,7.5,-120,11.9,4.4,7.5,13.0,o,0.52,1
 2022-03-23,Patty Mills,BKN,G,MEM,@,8.5,-125,10.4,1.9,8.5,0.0,o,0.46,0
-2022-03-31,Patty Mills,BKN,G,MIL,vs.,5.5,-115,9.0,3.5,5.5,,o,0.46,0
+2022-03-31,Patty Mills,BKN,G,MIL,vs.,5.5,-115,9.0,3.5,5.5,,o,0.46,nan
 2021-10-21,Paul George,LAC,F,GSW,@,25.5,-115,27.44,1.94,25.5,29.0,o,0.47,1
 2021-10-23,Paul George,LAC,F,MEM,vs.,26.5,-113,27.88,1.38,26.5,41.0,o,0.45,1
 2021-10-25,Paul George,LAC,F,POR,vs.,28.5,-110,28.08,-0.42,28.5,14.0,u,0.45,1
@@ -11921,7 +11949,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2021-12-08,Paul George,LAC,F,BOS,vs.,24.5,-106,26.3,1.8,24.5,0.0,o,0.55,0
 2021-12-20,Paul George,LAC,F,SAS,vs.,25.5,-115,27.2,1.7,25.5,25.0,o,0.66,0
 2021-12-22,Paul George,LAC,F,SAC,@,28.5,-113,29.48,0.98,28.5,17.0,o,0.6,0
-2022-03-31,Paul George,LAC,F,CHI,@,25.5,-130,21.2,-4.3,25.5,,u,0.46,0
+2022-03-31,Paul George,LAC,F,CHI,@,25.5,-130,21.2,-4.3,25.5,,u,0.46,nan
 2021-10-24,Paul Millsap,BKN,F,CHA,vs.,9.5,-115,6.68,-2.82,9.5,5.0,u,0.43,1
 2021-10-25,Paul Millsap,BKN,F,WAS,vs.,7.5,-115,7.28,-0.22,7.5,0.0,u,0.45,1
 2021-11-05,Paul Millsap,BKN,F,DET,@,5.5,-115,6.43,0.93,5.5,0.0,o,0.49,0
@@ -12280,7 +12308,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-22,Reggie Jackson,LAC,G,DEN,@,18.5,-105,18.2,-0.3,18.5,14.0,u,0.49,1
 2022-03-25,Reggie Jackson,LAC,G,PHI,vs.,18.5,-115,16.6,-1.9,18.5,11.0,u,0.47,1
 2022-03-29,Reggie Jackson,LAC,G,UTH,vs.,15.5,-115,15.7,0.2,15.5,21.0,o,0.46,1
-2022-03-31,Reggie Jackson,LAC,G,CHI,@,17.5,100,17.3,-0.2,17.5,,u,0.46,0
+2022-03-31,Reggie Jackson,LAC,G,CHI,@,17.5,100,17.3,-0.2,17.5,,u,0.46,nan
 2021-10-20,Richaun Holmes,SAC,F,POR,@,12.5,-127,15.01,2.51,12.5,21.0,o,0.33,1
 2021-10-22,Richaun Holmes,SAC,F,UTH,vs.,13.5,-110,14.23,0.73,13.5,6.0,o,0.47,0
 2021-10-24,Richaun Holmes,SAC,F,GSW,vs.,13.5,100,14.69,1.19,13.5,16.0,o,0.43,1
@@ -12404,7 +12432,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-06,Robert Covington,LAC,F,NYK,vs.,8.5,-179,4.9,-3.6,8.5,6.0,u,0.48,1
 2022-03-18,Robert Covington,LAC,F,UTH,@,6.5,-118,4.9,-1.6,6.5,18.0,u,0.43,0
 2022-03-22,Robert Covington,LAC,F,DEN,@,7.5,-120,5.8,-1.7,7.5,14.0,u,0.49,0
-2022-03-31,Robert Covington,LAC,F,CHI,@,6.5,-115,4.8,-1.7,6.5,,u,0.46,0
+2022-03-31,Robert Covington,LAC,F,CHI,@,6.5,-115,4.8,-1.7,6.5,,u,0.46,nan
 2021-10-20,Robert Williams,BOS,C,NYK,@,8.5,-118,8.57,0.07,8.5,16.0,o,0.33,1
 2021-10-22,Robert Williams,BOS,C,TOR,vs.,9.5,-110,12.48,2.98,9.5,9.0,o,0.47,0
 2021-10-24,Robert Williams,BOS,C,HOU,@,9.5,-120,12.04,2.54,9.5,2.0,o,0.43,0
@@ -12562,7 +12590,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-25,Royce O'Neale,UTH,F,CHA,@,8.5,-122,8.3,-0.2,8.5,6.0,u,0.47,1
 2022-03-27,Royce O'Neale,UTH,F,DAL,@,8.5,-121,7.3,-1.2,8.5,6.0,u,0.47,1
 2022-03-29,Royce O'Neale,UTH,F,LAC,@,7.5,-110,7.7,0.2,7.5,5.0,o,0.46,0
-2022-03-31,Royce O'Neale,UTH,F,LAL,vs.,7.5,-108,7.9,0.4,7.5,,o,0.46,0
+2022-03-31,Royce O'Neale,UTH,F,LAL,vs.,7.5,-108,7.9,0.4,7.5,,o,0.46,nan
 2021-11-20,Rudy Gay,UTH,F,SAC,@,10.5,-130,9.8,-0.7,10.5,3.0,u,0.56,1
 2021-11-22,Rudy Gay,UTH,F,MEM,vs.,9.5,-125,10.08,0.58,9.5,2.0,o,0.53,0
 2021-11-24,Rudy Gay,UTH,F,OKC,@,9.5,100,8.2,-1.3,9.5,15.0,u,0.46,0
@@ -12656,7 +12684,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-23,Rudy Gobert,UTH,C,BOS,@,12.5,-110,14.2,1.7,12.5,14.0,o,0.46,1
 2022-03-25,Rudy Gobert,UTH,C,CHA,@,14.5,-115,16.0,1.5,14.5,11.0,o,0.47,0
 2022-03-27,Rudy Gobert,UTH,C,DAL,@,13.5,-111,14.5,1.0,13.5,0.0,o,0.47,0
-2022-03-31,Rudy Gobert,UTH,C,LAL,vs.,14.5,105,17.2,2.7,14.5,,o,0.46,0
+2022-03-31,Rudy Gobert,UTH,C,LAL,vs.,14.5,105,17.2,2.7,14.5,,o,0.46,nan
 2022-01-11,Rui Hachimura,WAS,F,OKC,vs.,7.5,-128,6.5,-1.0,7.5,7.0,u,0.57,1
 2022-01-12,Rui Hachimura,WAS,F,ORL,vs.,6.5,100,6.3,-0.2,6.5,3.0,u,0.55,1
 2022-01-29,Rui Hachimura,WAS,F,MEM,@,7.5,110,11.73,4.23,7.5,4.0,o,0.46,0
@@ -12753,7 +12781,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-23,Russell Westbrook,LAL,G,PHI,vs.,20.5,-125,18.6,-1.9,20.5,24.0,u,0.46,0
 2022-03-27,Russell Westbrook,LAL,G,NOR,@,17.5,-112,17.3,-0.2,17.5,18.0,u,0.47,0
 2022-03-29,Russell Westbrook,LAL,G,DAL,@,19.5,-103,17.2,-2.3,19.5,25.0,u,0.46,0
-2022-03-31,Russell Westbrook,LAL,G,UTH,@,20.5,101,19.0,-1.5,20.5,,u,0.46,0
+2022-03-31,Russell Westbrook,LAL,G,UTH,@,20.5,101,19.0,-1.5,20.5,,u,0.46,nan
 2021-12-18,Saben Lee,DET,G,HOU,vs.,7.5,-115,5.93,-1.56,7.5,4.0,u,0.59,1
 2021-12-19,Saben Lee,DET,G,MIA,vs.,6.5,-111,5.18,-1.32,6.5,3.0,u,0.63,1
 2021-12-21,Saben Lee,DET,G,NYK,@,7.5,-133,6.3,-1.2,7.5,16.0,u,0.63,0
@@ -12834,7 +12862,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-23,Saddiq Bey,DET,F,ATL,vs.,17.5,-111,16.7,-0.8,17.5,10.0,u,0.46,1
 2022-03-27,Saddiq Bey,DET,F,NYK,vs.,17.5,-113,16.41,-1.09,17.5,14.0,u,0.47,1
 2022-03-29,Saddiq Bey,DET,F,BKN,@,18.5,-115,17.1,-1.4,18.5,15.0,u,0.46,1
-2022-03-31,Saddiq Bey,DET,F,PHI,vs.,16.5,-112,16.1,-0.4,16.5,,u,0.46,0
+2022-03-31,Saddiq Bey,DET,F,PHI,vs.,16.5,-112,16.1,-0.4,16.5,,u,0.46,nan
 2021-12-08,Santi Aldama,MEM,F,DAL,vs.,5.5,-110,3.82,-1.68,5.5,2.0,u,0.55,1
 2021-10-20,Scottie Barnes,TOR,G,WAS,vs.,10.5,-113,10.41,-0.09,10.5,12.0,u,0.33,0
 2021-10-22,Scottie Barnes,TOR,G,BOS,@,10.5,-113,10.41,-0.09,10.5,25.0,u,0.47,0
@@ -12982,7 +13010,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-26,Seth Curry,BKN,G,MIA,@,12.5,-106,11.6,-0.9,12.5,17.0,u,0.44,0
 2022-03-27,Seth Curry,BKN,G,CHA,vs.,12.5,100,13.0,0.5,12.5,12.0,o,0.47,0
 2022-03-29,Seth Curry,BKN,G,DET,vs.,11.5,-113,14.4,2.9,11.5,11.0,o,0.46,0
-2022-03-31,Seth Curry,BKN,G,MIL,vs.,11.5,-115,14.3,2.8,11.5,,o,0.46,0
+2022-03-31,Seth Curry,BKN,G,MIL,vs.,11.5,-115,14.3,2.8,11.5,,o,0.46,nan
 2021-10-20,Shai Gilgeous-Alexander,OKC,G,UTH,@,21.5,-113,19.17,-2.33,21.5,18.0,u,0.33,1
 2021-10-22,Shai Gilgeous-Alexander,OKC,G,HOU,@,22.5,-115,25.22,2.72,22.5,13.0,o,0.47,0
 2021-10-24,Shai Gilgeous-Alexander,OKC,G,PHI,vs.,20.5,-115,21.19,0.69,20.5,29.0,o,0.43,1
@@ -13064,7 +13092,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-07,Shake Milton,PHI,G,CHI,vs.,7.5,-105,9.9,2.4,7.5,3.0,o,0.46,0
 2022-03-10,Shake Milton,PHI,G,BKN,vs.,6.5,-109,7.2,0.7,6.5,0.0,o,0.42,0
 2022-03-13,Shake Milton,PHI,G,ORL,@,7.5,-105,9.8,2.3,7.5,0.0,o,0.48,0
-2022-03-31,Shake Milton,PHI,G,DET,@,5.5,100,7.4,1.9,5.5,,o,0.46,0
+2022-03-31,Shake Milton,PHI,G,DET,@,5.5,100,7.4,1.9,5.5,,o,0.46,nan
 2021-12-27,Skylar Mays,ATL,G,CHI,vs.,13.5,104,3.82,-9.68,13.5,6.0,u,0.57,1
 2021-10-20,Spencer Dinwiddie,WAS,G,TOR,@,16.5,-125,19.43,2.93,16.5,13.0,o,0.33,0
 2021-10-22,Spencer Dinwiddie,WAS,G,IND,vs.,19.5,-127,19.44,-0.06,19.5,34.0,u,0.47,0
@@ -13421,7 +13449,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-13,Terance Mann,LAC,G,DET,@,10.5,100,12.5,2.0,10.5,6.0,o,0.48,0
 2022-03-14,Terance Mann,LAC,G,CLE,@,14.5,-120,12.2,-2.3,14.5,18.0,u,0.47,0
 2022-03-22,Terance Mann,LAC,G,DEN,@,10.5,-115,10.2,-0.3,10.5,24.0,u,0.49,0
-2022-03-31,Terance Mann,LAC,G,CHI,@,9.5,100,10.1,0.6,9.5,,o,0.46,0
+2022-03-31,Terance Mann,LAC,G,CHI,@,9.5,100,10.1,0.6,9.5,,o,0.46,nan
 2021-10-20,Terence Davis,SAC,G,POR,@,9.5,-105,9.12,-0.38,9.5,6.0,u,0.33,1
 2021-10-27,Terence Davis,SAC,G,PHO,@,6.5,-115,6.2,-0.3,6.5,0.0,u,0.45,1
 2021-11-08,Terence Davis,SAC,G,PHO,vs.,9.5,-125,8.34,-1.17,9.5,13.0,u,0.44,0
@@ -13691,7 +13719,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-25,Tobias Harris,PHI,F,LAC,@,14.5,-115,17.5,3.0,14.5,12.0,o,0.47,0
 2022-03-27,Tobias Harris,PHI,F,PHO,@,14.5,-113,17.4,2.9,14.5,17.0,o,0.47,1
 2022-03-29,Tobias Harris,PHI,F,MIL,vs.,14.5,-128,18.1,3.6,14.5,22.0,o,0.46,1
-2022-03-31,Tobias Harris,PHI,F,DET,@,15.5,-110,18.9,3.4,15.5,,o,0.46,0
+2022-03-31,Tobias Harris,PHI,F,DET,@,15.5,-110,18.9,3.4,15.5,,o,0.46,nan
 2021-11-19,Tomas Satoransky,NOR,G,LAC,vs.,7.5,-120,5.67,-1.83,7.5,4.0,u,0.56,1
 2021-11-20,Tomas Satoransky,NOR,G,IND,@,6.5,-125,5.79,-0.71,6.5,2.0,u,0.56,1
 2021-12-12,Tomas Satoransky,NOR,G,SAS,@,3.5,-128,5.3,1.8,3.5,0.0,o,0.48,0
@@ -13812,7 +13840,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-25,Trae Young,ATL,G,GSW,vs.,29.5,-135,27.2,-2.3,29.5,33.0,u,0.47,0
 2022-03-28,Trae Young,ATL,G,IND,@,30.5,-115,29.4,-1.1,30.5,14.0,u,0.46,1
 2022-03-30,Trae Young,ATL,G,OKC,@,28.5,-111,29.5,1.0,28.5,41.0,o,0.46,1
-2022-03-31,Trae Young,ATL,G,CLE,vs.,29.5,-108,27.0,-2.5,29.5,,u,0.46,0
+2022-03-31,Trae Young,ATL,G,CLE,vs.,29.5,-108,27.0,-2.5,29.5,,u,0.46,nan
 2021-12-06,Tre Jones,SAS,G,PHO,@,4.5,-140,5.6,1.1,4.5,2.0,o,0.51,0
 2021-12-07,Tre Jones,SAS,G,NYK,vs.,4.5,-130,3.71,-0.79,4.5,4.0,u,0.52,1
 2021-12-09,Tre Jones,SAS,G,DEN,vs.,4.5,-140,3.6,-0.9,4.5,0.0,u,0.56,1
@@ -13931,6 +13959,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-26,Trey Lyles,SAC,F,ORL,@,13.5,-114,15.9,2.4,13.5,11.0,o,0.44,0
 2022-03-28,Trey Lyles,SAC,F,MIA,@,12.5,-106,15.7,3.2,12.5,11.0,o,0.46,0
 2022-03-30,Trey Lyles,SAC,F,HOU,@,15.5,-105,17.6,2.1,15.5,24.0,o,0.46,1
+2022-04-01,Trey Lyles,SAC,F,HOU,@,15.5,-141,15.66,0.16,15.5,,o,0.41,nan
 2021-11-02,Trey Murphy,NOR,G,PHO,@,6.5,-105,9.35,2.85,6.5,8.0,o,0.55,1
 2021-11-03,Trey Murphy,NOR,G,SAC,@,8.5,115,9.8,1.3,8.5,0.0,o,0.55,0
 2021-11-30,Tristan Thompson,SAC,C,LAL,vs.,5.5,-125,7.58,2.08,5.5,0.0,o,0.51,0
@@ -13941,7 +13970,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-16,Tristan Thompson,CHI,C,UTH,@,4.5,-115,5.9,1.4,4.5,5.0,o,0.46,1
 2022-03-18,Tristan Thompson,CHI,C,PHO,@,4.5,-135,5.15,0.65,4.5,11.0,o,0.43,1
 2022-03-29,Tristan Thompson,CHI,C,WAS,@,4.5,-130,5.35,0.85,4.5,4.0,o,0.46,0
-2022-03-31,Tristan Thompson,CHI,C,LAC,vs.,4.5,-120,5.19,0.69,4.5,,o,0.46,0
+2022-03-31,Tristan Thompson,CHI,C,LAC,vs.,4.5,-120,5.19,0.69,4.5,,o,0.46,nan
 2021-12-08,Troy Brown,CHI,G,CLE,@,10.5,-120,4.72,-5.78,10.5,7.0,u,0.55,1
 2021-12-31,Troy Brown,CHI,G,IND,@,6.5,-115,5.02,-1.48,6.5,0.0,u,0.57,1
 2022-01-14,Troy Brown,CHI,G,GSW,vs.,7.5,-115,4.64,-2.85,7.5,0.0,u,0.53,1
@@ -14150,7 +14179,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-25,Tyrese Maxey,PHI,G,LAC,@,16.5,-110,17.8,1.3,16.5,11.0,o,0.47,0
 2022-03-27,Tyrese Maxey,PHI,G,PHO,@,15.5,-112,17.7,2.2,15.5,18.0,o,0.47,1
 2022-03-29,Tyrese Maxey,PHI,G,MIL,vs.,17.5,-110,18.4,0.9,17.5,7.0,o,0.46,0
-2022-03-31,Tyrese Maxey,PHI,G,DET,@,16.5,-113,18.8,2.3,16.5,,o,0.46,0
+2022-03-31,Tyrese Maxey,PHI,G,DET,@,16.5,-113,18.8,2.3,16.5,,o,0.46,nan
 2021-10-28,Tyus Jones,MEM,G,GSW,@,5.5,-120,5.85,0.35,5.5,5.0,o,0.42,0
 2021-10-30,Tyus Jones,MEM,G,MIA,vs.,5.5,-105,5.35,-0.15,5.5,5.0,u,0.45,1
 2021-11-03,Tyus Jones,MEM,G,DEN,vs.,6.5,-115,7.06,0.56,6.5,7.0,o,0.55,1
@@ -14284,7 +14313,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-01-17,Wesley Matthews,MIL,G,ATL,@,8.5,-120,8.29,-0.21,8.5,3.0,u,0.58,1
 2022-03-04,Wesley Matthews,MIL,G,CHI,@,4.5,-135,5.7,1.2,4.5,7.0,o,0.53,1
 2022-03-16,Wesley Matthews,MIL,G,SAC,@,5.5,-115,5.0,-0.5,5.5,8.0,u,0.46,0
-2022-03-31,Wesley Matthews,MIL,G,BKN,@,5.5,-115,5.1,-0.4,5.5,,u,0.46,0
+2022-03-31,Wesley Matthews,MIL,G,BKN,@,5.5,-115,5.1,-0.4,5.5,,u,0.46,nan
 2021-10-20,Will Barton,DEN,G,PHO,@,14.5,-125,14.1,-0.4,14.5,20.0,u,0.33,0
 2021-10-22,Will Barton,DEN,G,SAS,vs.,15.5,-110,15.14,-0.36,15.5,12.0,u,0.47,1
 2021-10-25,Will Barton,DEN,G,CLE,vs.,14.5,-113,14.79,0.29,14.5,12.0,o,0.45,0
@@ -14351,6 +14380,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-26,Will Barton,DEN,G,OKC,vs.,12.5,-128,14.3,1.8,12.5,18.0,o,0.44,1
 2022-03-28,Will Barton,DEN,G,CHA,@,13.5,-106,15.5,2.0,13.5,18.0,o,0.46,1
 2022-03-30,Will Barton,DEN,G,IND,@,13.5,-127,15.7,2.2,13.5,18.0,o,0.46,1
+2022-04-01,Will Barton,DEN,G,MIN,vs.,15.5,-115,17.17,1.67,15.5,,o,0.41,nan
 2021-11-27,Willie Cauley-Stein,DAL,C,WAS,vs.,5.5,-115,3.83,-1.67,5.5,4.0,u,0.42,1
 2021-11-27,Willy Hernangomez,NOR,C,UTH,@,7.5,-110,5.25,-2.25,7.5,10.0,u,0.42,0
 2021-11-29,Willy Hernangomez,NOR,C,LAC,@,7.5,-130,7.9,0.4,7.5,9.0,o,0.49,1
@@ -14443,7 +14473,7 @@ Date,Name,Team,Position,Opp,Home/Away,Line,Moneyline,Projection,Diff,Pick,Result
 2022-03-26,Zach LaVine,CHI,G,CLE,@,23.5,-115,24.3,0.8,23.5,25.0,o,0.44,1
 2022-03-28,Zach LaVine,CHI,G,NYK,@,23.5,-115,24.9,1.4,23.5,27.0,o,0.46,1
 2022-03-29,Zach LaVine,CHI,G,WAS,@,23.5,-128,26.0,2.5,23.5,14.0,o,0.46,0
-2022-03-31,Zach LaVine,CHI,G,LAC,vs.,22.5,-115,24.5,2.0,22.5,,o,0.46,0
+2022-03-31,Zach LaVine,CHI,G,LAC,vs.,22.5,-115,24.5,2.0,22.5,,o,0.46,nan
 2021-12-04,Zeke Nnaji,DEN,F,NYK,@,5.5,-105,2.91,-2.59,5.5,21.0,u,0.55,0
 2021-12-06,Zeke Nnaji,DEN,F,CHI,@,7.5,115,3.35,-4.15,7.5,3.0,u,0.51,1
 2022-02-02,Zeke Nnaji,DEN,F,UTH,@,11.5,-110,12.3,0.8,11.5,8.0,o,0.55,0
