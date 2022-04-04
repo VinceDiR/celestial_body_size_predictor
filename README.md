@@ -9,7 +9,7 @@ Asteroids larger than 35 meters in daimater can pose a threat to a city or town.
 
 Because the true size of most celestial objects is not well determined, we will strive to produce a model that can accurately estimate the diameter of objects in space, given a set of easily observable features.
 
-![](https://media.giphy.com/media/m9jAzUg9eXQh8RqgYd/giphy.gif)
+![](images/known_asteroids.gif)
 
 <br></br>
 ## Goal:
