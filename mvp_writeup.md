@@ -1,4 +1,4 @@
-## Celestial Body Size Predictor
+# Celestial Body Size Predictor
 
 The goal of this project is to create a model that can predict the size of celestial objects in our solar system with some degree of accuracy, and make it publicly available via a streamlit web app.
 
