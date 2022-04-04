@@ -8,6 +8,8 @@ Potentially Hazard Objects (PHO) are near-Earth objects with an orbit that can b
 Asteroids larger than 35 meters in daimater can pose a threat to a city or town. However, the diameter of most small celestial objects is not well determined, as they are usually estimated using brightness and distinace, as opposed to direct radar measurements.  
 
 Because the true size of most celestial objects is not well determined, we will strive to produce a model that can accurately estimate the diameter of objects in space, given a set of easily observable features.
+
+![](https://cdn.mos.cms.futurecdn.net/iQuvUQUxRvH86tzRr4B7eP-1024-80.gif)
 <br></br>
 ## Goal:
 The goal of this project is to productionize a model that predicts the diameter of celestial objects with some degree of accuracy. To do so, we will store a database of 800,000 measurements of celestial objects in Google Cloud Storage, create a model with Python using PySpark, and a front-end web application with Streamlit. As a further goal, I would like to containerize the script and web application using Docker.
