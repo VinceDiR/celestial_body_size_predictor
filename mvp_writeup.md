@@ -9,4 +9,3 @@ I've run into some technical issues creating the model with PySpark, and am work
 If the problem persists, I may roll my data processing pipeline back to pre-vectorization so I can export the results for use in a sci-kit learn model, and then proceed to streamlit.
 
 [MVP Script Here](/Users/nathanieldirenzo/Documents/GitHub/celestial_body_size_predictor/asteroid_size_predictor.ipynb)
-
