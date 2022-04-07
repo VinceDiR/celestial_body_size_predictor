@@ -16,7 +16,7 @@ How well can we predict the size of an asteroid with Gradient Boosted Regression
 bucket_name="ndir-metis-bucket"
 path=f"gs://{bucket_name}/asteroid/processed_asteroid_data.csv"
 data = pd.read_csv(path,
-                    storage_options={'token' : 'secrets.toml'},
+                    storage_options={'token' : 'secrets.json'},
                     low_memory=False,
                     index_col=0)
 
