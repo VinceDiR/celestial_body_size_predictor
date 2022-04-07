@@ -3,3 +3,4 @@ matplotlib
 xgboost
 scikit-learn
 fsspec
+gcsfs
