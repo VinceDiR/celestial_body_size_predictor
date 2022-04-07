@@ -31,4 +31,3 @@ if show_df:
 
 model = xgb.Booster()
 model.load_model("xgb_model.json")
-
