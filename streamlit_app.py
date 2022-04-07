@@ -5,8 +5,12 @@ import matplotlib.pyplot as plt
 from google.oauth2 import service_account
 
 credentials = service_account.Credentials.from_service_account_info(
-    st.secrets["gcp-service-account"]
-)
+    st.secrets["gcp-service-account"])
+
+scoped_credentials = credentials.with_scopes(
+    ['https://www.googleapis.com/auth/cloud-platform'])
+
+credentials
 
 st.image('images/known_asteroids.gif')
 
