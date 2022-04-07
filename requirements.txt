@@ -2,4 +2,4 @@ pandas
 matplotlib
 xgboost
 scikit-learn
-Pillow
+fsspec
