@@ -89,3 +89,7 @@ hide_dataframe_row_index = """
 st.markdown(hide_dataframe_row_index, unsafe_allow_html=True)
 st.dataframe(data)
 
+fig, ax = plt.subplots()
+ax = sns.heatmap(data.corr(), annot=True, fmt='.2f', cmap='coolwarm', cbar=False, yticklabels=False, xticklabels=False, annot_kws={"size": 6})
+st.pyplot(fig, width='auto', transparent=True)
+st.caption('Correlation between the features')
