@@ -47,7 +47,6 @@ The [dataset](https://ssd.jpl.nasa.gov/tools/sbdb_query.html) is used with permi
 - per: orbital period (days)
 - ma: mean ananomly (degrees)
 
-
 ## Pipeline
 
 ### Data Wrangling with PySpark
