@@ -92,6 +92,6 @@ The [dataset](https://ssd.jpl.nasa.gov/tools/sbdb_query.html) is used with permi
 
 ## Communication
 
-- See [PDF]() of slides.
+- See [PDF](https://github.com/NateDiR/celestial_body_size_predictor/blob/main/Asteroid%20Predictor%20Presentation.pdf) of slides.
 
 - See [Streamlit Application](https://share.streamlit.io/natedir/celestial_body_size_predictor/main)
