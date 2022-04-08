@@ -4,3 +4,5 @@ xgboost
 scikit-learn
 fsspec
 gcsfs
+numpy
+seaborn
