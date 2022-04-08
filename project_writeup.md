@@ -81,7 +81,7 @@ The [dataset](https://ssd.jpl.nasa.gov/tools/sbdb_query.html) is used with permi
 
 #### Test Set Metric Scores
 
-- Mean Absolute Error: .97 Km
+- Mean Absolute Error: .97 (kilometers)
 - R2 Score: .79
 
 ## Frontend Tools
