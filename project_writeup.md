@@ -74,8 +74,8 @@ The [dataset](https://ssd.jpl.nasa.gov/tools/sbdb_query.html) is used with permi
 
 ### Selected Metrics
 
--Mean Absolute Error
--R2 Score
+- Mean Absolute Error
+- R2 Score
 
 ### Final XGBoost Model
 
